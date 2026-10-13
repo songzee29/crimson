@@ -1,7 +1,8 @@
 # CRIMSON DYNASTY — Canon Bible
 
-**Purpose:** The locked story canon for *Crimson Dynasty*, the prequel novel — Zee Darkheart's story. Built Oct 12, 2026 from the ChatGPT thread retrievals (signed in as Zephy Moore).
-**Rule:** Everything below comes from the retrieval reports. Anything uncertain is marked **UNVERIFIED**. No invented content.
+**Purpose:** Reference bible for *Crimson Dynasty*, Zee Darkheart's story. This is a secondary summary, not the manuscript itself.
+**Authority:** Zee's locked master story summary (`zee-reports/crimson-dynasty-story-summary-master.md`), explicit newer rulings (`drafts/current-direction.md`), and the archived manuscript chapters (`backfill/dynasty/ch001–ch146`) take priority over this file. This bible was compiled from retrieval reports on Oct 12, 2026 and must not override later or primary material.
+**Status:** Repository-level conflicts were documented in `zee-reports/repo-audit-2026-10-13.md`; use the chapter files as primary evidence and correct this bible when verified.
 
 ---
 
@@ -31,7 +32,7 @@ The origin blueprint is Zee's FIRST EVER ChatGPT chat ("Zee Aesthetic Vibes," Ma
 | Prophecy | "When the immortal king with three souls fully embraces his darkness… the world itself will kneel or burn." | Retained in spirit; see the Prophecy of the Blood Crown (§7) |
 | Aesthetic | Villain-main-character energy; character-driven storytelling; visual atmosphere | Retained |
 
-**Note:** The same chat also holds "BOOK II: THE FORGOTTEN BLOOD" (Ch 69–98, June 1–3) — an ALTERNATE "House Drakhar" continuity (Zee, Lucien, Seraphina, Aiden Drakhar; Kael; Rez as "The Last Keeper"; the Seven Ancient Thrones; Nihryx). This is **not** current Dynasty canon. Needs Zee's ruling: **Darkheart vs Drakhar — which continuity is canon?**
+**Note:** The same chat also holds "BOOK II: THE FORGOTTEN BLOOD" (Ch 69–98, June 1–3) — an ALTERNATE "House Drakhar" continuity. This is **not** current Dynasty canon. The current manuscript uses House Darkheart and Zee Darkheart; do not reopen the resolved Darkheart-vs-Drakhar question unless Zee explicitly does so.
 
 ---
 
