@@ -1,0 +1,72 @@
+# Laughter In The Dark — Chapter extraction
+
+> **Source:** ChatGPT conversation "Crimson Legacy Reimagined" (~/workspace/crimson/backfill/legacy/working/legacy-reimagined.txt)
+> **Message #203** — 2026-06-27 18:07
+> **Written by:** ChatGPT (written at Zee's direction)
+> **Chapter number (as used in chat):** 164
+> **Book label (as used in chat):** —
+> **ARCHIVAL ONLY — Legacy writing paused. Extracted, not edited. Not canon until Zee rules.**
+
+---
+
+The amusement park had been abandoned for almost forty years.
+
+Rust covered every ride.
+
+The Ferris wheel groaned in the wind.
+
+Carousel horses slowly turned...
+
+Even though nothing powered them.
+
+Children's laughter echoed somewhere inside.
+
+Lyra looked around.
+
+"...Tell me that's not real."
+
+Nobody answered.
+
+Because everyone heard it.
+
+Malik quietly loaded another magazine into his enchanted crossbow.
+
+"I officially hate clowns."
+
+"There aren't any clowns."
+
+"There WILL be."
+
+---
+
+As they stepped through the entrance...
+
+The massive gate slammed shut behind them.
+
+Boom.
+
+Every ride suddenly came alive.
+
+Lights flickered.
+
+Music began playing.
+
+An old announcement echoed through broken speakers.
+
+> **"Welcome back..."**
+
+> **"...Aidan."**
+
+Silence.
+
+Everyone slowly looked toward him.
+
+Aidan frowned.
+
+"I've never been here."
+
+The voice laughed.
+
+> **"Not this life..."**
+
+---
