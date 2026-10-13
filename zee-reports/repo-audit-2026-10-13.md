@@ -70,3 +70,9 @@ The repository contains the full archived Crimson Dynasty manuscript through Cha
 ## Audit boundary / honesty note
 
 This audit verified the Git tree inventory and opened key primary files, the master summary, the current restart direction, the existing aggregate canon audit, the proposal manifest, the Zayrlen visual reference, and representative proposal drafts. It identifies repository-level conflicts and status errors. It does **not** claim every sentence of all 146 canonical chapters has already been manually reviewed against every decree; that is a distinct manuscript-level pass and must be recorded chapter by chapter.
+
+
+### P1 — Phoenix naming instruction needs scope clarification
+- `drafts/current-direction.md` says the “Phoenix name-lock holds (fire/wings may show, never named).”
+- The earlier locked manuscript sequence explicitly names the evolved species Abysscin and the true form Crimson Black Abyss Phoenix in Chapter 134; the lick-back directive also explicitly identifies the Crimson Black Abyss Phoenix as the power Zee deliberately uses against the eight.
+- These instructions can coexist only if “never named” is scoped to the restarted chapters' *on-page narration/dialogue* (the visual/ability can appear without repeating the name), rather than erasing the Chapter 134 reveal or the underlying canon name. Confirm scope before drafting; do not rename the species/form or pretend the Chapter 134 reveal did not happen.
