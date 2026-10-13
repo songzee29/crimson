@@ -37,7 +37,11 @@ Every chapter 1–146 exists as a full draft Zee pasted from the Book Chat into 
 | Ch 144 | COMPLETE DRAFT | **"Selk Varren"** (one open continuity fix pending — §4.1) |
 | Ch 145 | COMPLETE DRAFT | **"The Reaction"** |
 | Ch 146 | COMPLETE DRAFT | **"Brannic Dor"** — sole copy from the Directive conversation (never pasted to writers room) |
-| Ch 147+ | UNWRITTEN | Nothing exists past Ch 146. |
+| Ch 147+ | NO APPROVED CANONICAL CHAPTERS | 108 pre-restart proposal drafts numbered 147–255 (except 225) exist under `drafts/archive-pre-restart-2026-10-12/`; these are explicitly non-canonical and must not be treated as written/approved story. See `drafts/current-direction.md`. |
+
+### Pre-restart proposal drafts (NOT canon — do not continue from their outcomes)
+
+The repository also contains 108 archived proposal drafts numbered Ch 147–255 except Ch 225. They were explicitly archived by Zee's Oct 12 restart ruling. They may preserve ideas for reference but none of their events are canonical unless Zee explicitly approves them. In particular, do not assume the proposed death of Vaeren Thoss or the old paper-war sequence is settled. The restart resumes at Ch 147 in this locked order: Vaeren Thoss → Kaldrek Vane → Sera Quill → Jorren Vale → Neris Pell → Drovak Senn.
 
 ### Origin-serial material (NOT manuscript — pre-canon story-play)
 
