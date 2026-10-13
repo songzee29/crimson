@@ -1,7 +1,7 @@
 # CRIMSON DYNASTY — Characters
 
-**Built:** Oct 12, 2026
-**Sources:** ChatGPT thread retrievals (signed in as Zephy Moore). Only reported canon is used; anything uncertain is marked **UNVERIFIED**.
+**Updated:** 2026-10-13
+**Authority:** Secondary character reference. Zee's locked master story summary, newer explicit rulings, and actual chapter files under `backfill/dynasty/` take precedence. This file was compiled from Oct 12 retrieval reports; stale or conflicting statements must be reconciled against those primary sources.
 
 ---
 
@@ -56,8 +56,8 @@
 - **Role:** Zee's second son (first son with Ner Azrion).
 - **Key traits / powers:** Naturally born **Dragon–Witch–Wolf Tribrid**. Future true Wolf form is crimson and gold; eyes are Zee's crimson-gold; true Dragon form visually matches the true Dragon form Zee would have had — preserving the visual expression of Zee's Veyrath-derived Dragon blood. Looks extraordinarily like his brother Azren through shared family genetics — they are NOT twins (ruled by Zee, Oct 12, 2026); use consistent distinguishing tags (crimson-gold eyes) so readers never mix them up.
 - **Key relationships:** Son of Zee Darkheart and Ner Azrion. Older brother of Azren; younger brother of Aidan (though Aidan is hidden and unknown to him). Appears in Dynasty threads (Sep 25: "Zayrlen leaned against the wall farther down the corridor. Older now...").
-- **Status:** Alive; age 17 in the current Dynasty timeline (ruled by Zee, Oct 12, 2026 — NOT ten; drafts calling him ten are wrong). Has awakened his true Dragon form (crimson-and-gold), developed his Wolf abilities, and earned Zee's trust to fight beside him on appropriate missions. Has his own place in the family before Azren's arrival.
-- **Visual reference (locked, Zee, Oct 12, 2026):** see `~/workspace/crimson/dynasty/zayrlen-visual-reference.md` — teenage warrior: strong jaw, battle scars, long dark hair partly pulled back, crimson-and-gold eyes, tall muscular build, black battle-worn armor with antique-gold and crimson designs, dark ornate sword, crimson-and-gold energy with floating blade/spear constructs. Reference image: `~/workspace/crimson/art/dynasty-zayrlen-portrait.webp`.
+- **Status:** Alive; age 17 in the current Dynasty timeline (ruled by Zee, Oct 12, 2026 — NOT ten; proposal drafts calling him ten are wrong). Has awakened his true Dragon form (crimson-and-gold), developed his Wolf abilities, and earned Zee's trust to fight beside him on appropriate missions. Has his own place in the family before Azren's arrival.
+- **Visual reference (locked, Zee, Oct 12, 2026):** see `dynasty/zayrlen-visual-reference.md` — teenage warrior: strong jaw, battle scars, long dark hair partly pulled back, crimson-and-gold eyes, tall muscular build, black battle-worn armor with antique-gold and crimson designs, dark ornate sword, crimson-and-gold energy with floating blade/spear constructs. Reference image: `~/workspace/crimson/art/dynasty-zayrlen-portrait.webp`.
 
 ---
 
