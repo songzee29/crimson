@@ -10,6 +10,11 @@ The full separate ChatGPT Writers' Room conversation is not available to this se
 
 Until that transcript is added, treat this document as a useful handoff snapshot, not an exhaustive record.
 
+## Interim archive links
+
+- [Writers' Room archive index](README.md)
+- [Reconstructed Writers' Room archive](reconstructed-archive-2026-10-13.md) — structured reconstruction from currently available context; not verbatim.
+
 ## Collaboration purpose
 
 Use this repository as the shared workspace for Zee's Crimson project so ChatGPT and Meta Muse AI can work from the same written sources.
