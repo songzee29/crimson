@@ -9,7 +9,7 @@
 
 ## Official Visual Reference
 
-The reference image (`~/workspace/crimson/art/dynasty-zayrlen-portrait.webp`) is the visual reference for Zayrlen's teenage warrior appearance.
+The reference image (`art/dynasty-zayrlen-portrait.webp`) is the visual reference for Zayrlen's teenage warrior appearance.
 
 - **Face:** Strong, masculine facial structure with a defined jaw, intense expression, visible battle scars.
 - **Hair:** Long, dark hair, worn loosely with portions pulled back.
