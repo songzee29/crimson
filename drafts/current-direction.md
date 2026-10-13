@@ -9,7 +9,7 @@
 - **Zee's aftermath philosophy:** "They studied my answers. Now they can study lies."
 - **Original commissioner of the Ch-128 attack:** UNKNOWN — an open mystery, not a stall.
 - **Victor's thread** runs alongside: testing Zee, restricted, earning his place with Zayrlen slowly.
-- **Zayrlen (17) and Azren:** the tide-twin — Zee's last two sons, alike through bloodline, NOT twins, NOT a phenomenon. Zayrlen fights beside Zee on appropriate missions.
+- **Zayrlen (17) and Azren:** Zee's last two sons, alike through bloodline, NOT twins, NOT a phenomenon. Zayrlen fights beside Zee on appropriate missions.
 - **The Devouring Choir** stays a separate background threat — never the explanation for Victor or the Ch-128 attack.
 
 ## Locked canon the restart must honor
@@ -17,7 +17,8 @@
 - Master story summary: `~/workspace/crimson/zee-reports/crimson-dynasty-story-summary-master.md`
 - Bibles: `~/workspace/crimson/dynasty/canon.md`, `chapters.md`, `characters.md`; `~/workspace/crimson/chapter_map.md`
 - Zayrlen visual reference: `~/workspace/crimson/dynasty/zayrlen-visual-reference.md`
-- Ner is male, a father, never a mother. Three-son lock holds. Phoenix name-lock holds (fire/wings may show, never named). Inner-circle no-target boundary holds. Only Zee creates hybrids. Aidan stays in Vesper, offstage.
+- Ner is male, a father, never a mother. Three-son lock holds. Inner-circle no-target boundary holds. Only Zee creates hybrids. Aidan stays in Vesper, offstage.
+- **Phoenix naming scope:** Chapter 134's existing formal reveal remains canon: Zee's evolved species is Abysscin and his true Phoenix form is the Crimson Black Abyss Phoenix. In the restarted lick-back scenes, show Phoenix fire/wings without repeatedly naming or explaining the form unless the scene genuinely requires it. This is a presentation restraint, not a retcon of Chapter 134.
 - Drafts are proposals until Zee approves. Scribe promotes only on Zee's explicit approval.
 
 ## What the old drafts got wrong (do not repeat)
