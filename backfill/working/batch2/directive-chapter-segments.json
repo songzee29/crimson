@@ -1,0 +1,1652 @@
+[
+ {
+  "ch": 1,
+  "title": "Blood Rain",
+  "chars": 5497,
+  "date": "2026-08-06 16:33",
+  "msg_i": 2,
+  "seg_start": 0,
+  "seg_end": 5497,
+  "node": "b5d2726e-8173-441d-90dd-7a5137b909ba"
+ },
+ {
+  "ch": 1,
+  "title": "Blood Rain",
+  "chars": 11767,
+  "date": "2026-08-06 16:44",
+  "msg_i": 6,
+  "seg_start": 41,
+  "seg_end": 11809,
+  "node": "68be0a12-611a-48c0-b176-27ec79e2b92f"
+ },
+ {
+  "ch": 2,
+  "title": "The Council of Crowns",
+  "chars": 5540,
+  "date": "2026-08-06 17:00",
+  "msg_i": 7,
+  "seg_start": 71,
+  "seg_end": 5612,
+  "node": "e3a8e370-d935-420e-8f76-cd0e0ff9e98a"
+ },
+ {
+  "ch": 3,
+  "title": "The Return of Magic",
+  "chars": 4125,
+  "date": "2026-08-06 17:14",
+  "msg_i": 9,
+  "seg_start": 41,
+  "seg_end": 4167,
+  "node": "5f598d93-2b9c-4217-981c-46b4f3289a3b"
+ },
+ {
+  "ch": 1,
+  "title": "Blood Rain",
+  "chars": 7745,
+  "date": "2026-08-06 17:38",
+  "msg_i": 12,
+  "seg_start": 0,
+  "seg_end": 7745,
+  "node": "8fb47d55-6647-47c4-a719-54ce4e61552d"
+ },
+ {
+  "ch": 1,
+  "title": "Blood Rain",
+  "chars": 6562,
+  "date": "2026-08-06 17:38",
+  "msg_i": 14,
+  "seg_start": 116,
+  "seg_end": 6679,
+  "node": "0b6eae45-e44b-4ba6-8630-66d2dc72a9c8"
+ },
+ {
+  "ch": 2,
+  "title": "The King's Fear",
+  "chars": 4862,
+  "date": "2026-08-06 17:39",
+  "msg_i": 15,
+  "seg_start": 83,
+  "seg_end": 4946,
+  "node": "65fad3aa-1188-44f8-b6cc-956f73dd8cb5"
+ },
+ {
+  "ch": 3,
+  "title": "A Father's Decision",
+  "chars": 5180,
+  "date": "2026-08-06 17:39",
+  "msg_i": 16,
+  "seg_start": 78,
+  "seg_end": 5259,
+  "node": "f26d0264-aab9-47c5-8b0d-fd0a6aaabf39"
+ },
+ {
+  "ch": 4,
+  "title": "The Crown and the Cradle",
+  "chars": 5454,
+  "date": "2026-08-06 17:40",
+  "msg_i": 17,
+  "seg_start": 87,
+  "seg_end": 5542,
+  "node": "c113a2e6-350c-4ca3-81b2-c631d5a8229e"
+ },
+ {
+  "ch": 1,
+  "title": "Blood Rain",
+  "chars": 14687,
+  "date": "2026-08-06 17:51",
+  "msg_i": 24,
+  "seg_start": 41,
+  "seg_end": 14730,
+  "node": "18b6013a-69ee-4b77-9e40-42dd81417fb1"
+ },
+ {
+  "ch": 2,
+  "title": "The King\u2019s Fear",
+  "chars": 16424,
+  "date": "2026-08-06 17:51",
+  "msg_i": 24,
+  "seg_start": 14730,
+  "seg_end": 31155,
+  "node": "18b6013a-69ee-4b77-9e40-42dd81417fb1"
+ },
+ {
+  "ch": 3,
+  "title": "Fear Becomes Judgment",
+  "chars": 13076,
+  "date": "2026-08-07 00:27",
+  "msg_i": 25,
+  "seg_start": 41,
+  "seg_end": 13119,
+  "node": "5c9f6d99-09cb-4f37-9a72-4d2e8cf9c224"
+ },
+ {
+  "ch": 4,
+  "title": "The First Decision",
+  "chars": 14093,
+  "date": "2026-08-07 00:27",
+  "msg_i": 25,
+  "seg_start": 13119,
+  "seg_end": 27213,
+  "node": "5c9f6d99-09cb-4f37-9a72-4d2e8cf9c224"
+ },
+ {
+  "ch": 5,
+  "title": "The First Attempt",
+  "chars": 14711,
+  "date": "2026-08-07 01:35",
+  "msg_i": 26,
+  "seg_start": 41,
+  "seg_end": 14753,
+  "node": "4c6a6822-48f2-47f5-8cd4-c3aa71fb22d9"
+ },
+ {
+  "ch": 6,
+  "title": "The First Death",
+  "chars": 12546,
+  "date": "2026-08-07 01:42",
+  "msg_i": 27,
+  "seg_start": 41,
+  "seg_end": 12588,
+  "node": "12f83d68-a8a6-4e13-a219-11c713f13f4b"
+ },
+ {
+  "ch": 7,
+  "title": "The Child Who Returned",
+  "chars": 18119,
+  "date": "2026-08-07 02:02",
+  "msg_i": 28,
+  "seg_start": 41,
+  "seg_end": 18161,
+  "node": "2390b80e-a19a-4082-b061-1b7ef9f1f2db"
+ },
+ {
+  "ch": 8,
+  "title": "The World Comes Below",
+  "chars": 16855,
+  "date": "2026-08-07 02:23",
+  "msg_i": 31,
+  "seg_start": 41,
+  "seg_end": 16897,
+  "node": "3ae47da7-a748-4717-96be-6098d3e7edd5"
+ },
+ {
+  "ch": 9,
+  "title": "The Road Without Banners",
+  "chars": 15026,
+  "date": "2026-08-07 05:06",
+  "msg_i": 32,
+  "seg_start": 41,
+  "seg_end": 15068,
+  "node": "c20f6746-2b46-4fb6-a3ee-5fd5dd5944f4"
+ },
+ {
+  "ch": 9,
+  "title": "The Road of Teeth",
+  "chars": 15589,
+  "date": "2026-08-07 05:08",
+  "msg_i": 33,
+  "seg_start": 41,
+  "seg_end": 15631,
+  "node": "a336a603-e7cc-43c8-bd18-0bc50264491e"
+ },
+ {
+  "ch": 10,
+  "title": "The Things in the Trees",
+  "chars": 10413,
+  "date": "2026-08-07 05:17",
+  "msg_i": 35,
+  "seg_start": 41,
+  "seg_end": 10456,
+  "node": "264d8a4a-aea8-4d8b-8ff7-18898212350a"
+ },
+ {
+  "ch": 11,
+  "title": "The Kingdom That Said Yes",
+  "chars": 9478,
+  "date": "2026-08-07 05:17",
+  "msg_i": 35,
+  "seg_start": 10456,
+  "seg_end": 19935,
+  "node": "264d8a4a-aea8-4d8b-8ff7-18898212350a"
+ },
+ {
+  "ch": 12,
+  "title": "The Price of Sanctuary",
+  "chars": 12367,
+  "date": "2026-08-07 05:22",
+  "msg_i": 37,
+  "seg_start": 41,
+  "seg_end": 12410,
+  "node": "1ce05adc-d01f-462c-bf5d-d221bbe9c658"
+ },
+ {
+  "ch": 13,
+  "title": "The Silent Knife",
+  "chars": 10916,
+  "date": "2026-08-07 05:22",
+  "msg_i": 37,
+  "seg_start": 12410,
+  "seg_end": 23327,
+  "node": "1ce05adc-d01f-462c-bf5d-d221bbe9c658"
+ },
+ {
+  "ch": 14,
+  "title": "The Sanctuary That Failed",
+  "chars": 15254,
+  "date": "2026-08-15 15:16",
+  "msg_i": 39,
+  "seg_start": 41,
+  "seg_end": 15297,
+  "node": "90e3a09f-4c93-44e2-982f-6794a4c18711"
+ },
+ {
+  "ch": 15,
+  "title": "The Eyes Behind the Hunt",
+  "chars": 12233,
+  "date": "2026-08-15 15:16",
+  "msg_i": 39,
+  "seg_start": 15297,
+  "seg_end": 27531,
+  "node": "90e3a09f-4c93-44e2-982f-6794a4c18711"
+ },
+ {
+  "ch": 16,
+  "title": "The Winter Hunt",
+  "chars": 10378,
+  "date": "2026-08-15 15:21",
+  "msg_i": 41,
+  "seg_start": 41,
+  "seg_end": 10421,
+  "node": "2653c152-e0f0-4aa8-b0df-e3358c977432"
+ },
+ {
+  "ch": 17,
+  "title": "The Place Without a Crown",
+  "chars": 12603,
+  "date": "2026-08-15 15:21",
+  "msg_i": 41,
+  "seg_start": 10421,
+  "seg_end": 23025,
+  "node": "2653c152-e0f0-4aa8-b0df-e3358c977432"
+ },
+ {
+  "ch": 18,
+  "title": "The Prince in Crimson Scales",
+  "chars": 12176,
+  "date": "2026-08-15 16:49",
+  "msg_i": 45,
+  "seg_start": 91,
+  "seg_end": 12269,
+  "node": "4dfe41de-0c85-4b8b-b539-2e170694f42f"
+ },
+ {
+  "ch": 19,
+  "title": "The Dragon Queen",
+  "chars": 15087,
+  "date": "2026-08-15 16:49",
+  "msg_i": 45,
+  "seg_start": 12269,
+  "seg_end": 27357,
+  "node": "4dfe41de-0c85-4b8b-b539-2e170694f42f"
+ },
+ {
+  "ch": 20,
+  "title": "The Chain for the Dragon",
+  "chars": 15018,
+  "date": "2026-08-15 16:52",
+  "msg_i": 47,
+  "seg_start": 91,
+  "seg_end": 15111,
+  "node": "4d313830-3970-451f-a191-549d8e5dd8ff"
+ },
+ {
+  "ch": 21,
+  "title": "Three Years Later",
+  "chars": 16266,
+  "date": "2026-08-15 16:52",
+  "msg_i": 47,
+  "seg_start": 15111,
+  "seg_end": 31378,
+  "node": "4d313830-3970-451f-a191-549d8e5dd8ff"
+ },
+ {
+  "ch": 22,
+  "title": "The Boy With Golden Hands",
+  "chars": 10597,
+  "date": "2026-08-15 17:16",
+  "msg_i": 50,
+  "seg_start": 97,
+  "seg_end": 10696,
+  "node": "7dd6a1aa-4dd0-4c0a-af8a-52798e5cf468"
+ },
+ {
+  "ch": 23,
+  "title": "The Hunt Beneath Vesper",
+  "chars": 15885,
+  "date": "2026-08-15 17:16",
+  "msg_i": 50,
+  "seg_start": 10696,
+  "seg_end": 26582,
+  "node": "7dd6a1aa-4dd0-4c0a-af8a-52798e5cf468"
+ },
+ {
+  "ch": 24,
+  "title": "The Hunted Prince",
+  "chars": 17915,
+  "date": "2026-08-15 18:02",
+  "msg_i": 52,
+  "seg_start": 41,
+  "seg_end": 17957,
+  "node": "c38a76c1-dd5e-424d-9475-3533a06f3874"
+ },
+ {
+  "ch": 25,
+  "title": "The Trail of Gold",
+  "chars": 15559,
+  "date": "2026-08-15 22:06",
+  "msg_i": 54,
+  "seg_start": 96,
+  "seg_end": 15657,
+  "node": "9c4a2c42-67c2-47c3-9974-7532a3711a70"
+ },
+ {
+  "ch": 26,
+  "title": "The Blood His Mother Hid",
+  "chars": 11796,
+  "date": "2026-08-15 22:06",
+  "msg_i": 54,
+  "seg_start": 15657,
+  "seg_end": 27454,
+  "node": "9c4a2c42-67c2-47c3-9974-7532a3711a70"
+ },
+ {
+  "ch": 27,
+  "title": "The Door Beneath Vesper",
+  "chars": 16429,
+  "date": "2026-08-15 22:12",
+  "msg_i": 55,
+  "seg_start": 99,
+  "seg_end": 16530,
+  "node": "ef12e132-2269-46e4-9fab-79c12862b6a9"
+ },
+ {
+  "ch": 28,
+  "title": "The Blood Before Darkheart",
+  "chars": 10786,
+  "date": "2026-08-15 22:12",
+  "msg_i": 55,
+  "seg_start": 16530,
+  "seg_end": 27317,
+  "node": "ef12e132-2269-46e4-9fab-79c12862b6a9"
+ },
+ {
+  "ch": 27,
+  "title": "The Door Beneath Vesper",
+  "chars": 23723,
+  "date": "2026-08-15 22:55",
+  "msg_i": 57,
+  "seg_start": 113,
+  "seg_end": 23838,
+  "node": "c88408f0-7e34-47bd-8e01-5ab699a898a4"
+ },
+ {
+  "ch": 28,
+  "title": "The Blood Before Darkheart",
+  "chars": 18401,
+  "date": "2026-08-15 22:55",
+  "msg_i": 57,
+  "seg_start": 23838,
+  "seg_end": 42240,
+  "node": "c88408f0-7e34-47bd-8e01-5ab699a898a4"
+ },
+ {
+  "ch": 29,
+  "title": "The Ghost of Veyrath",
+  "chars": 20086,
+  "date": "2026-08-16 09:44",
+  "msg_i": 58,
+  "seg_start": 41,
+  "seg_end": 20128,
+  "node": "96293ffe-9425-4f0a-a17f-355a25bee487"
+ },
+ {
+  "ch": 30,
+  "title": "The Blood That Would Not Stay Still",
+  "chars": 14942,
+  "date": "2026-08-16 10:21",
+  "msg_i": 60,
+  "seg_start": 91,
+  "seg_end": 15035,
+  "node": "bfca37cd-ea1f-4e88-be2f-7de743fcc26d"
+ },
+ {
+  "ch": 31,
+  "title": "Stay With Me",
+  "chars": 22481,
+  "date": "2026-08-16 10:21",
+  "msg_i": 60,
+  "seg_start": 15035,
+  "seg_end": 37517,
+  "node": "bfca37cd-ea1f-4e88-be2f-7de743fcc26d"
+ },
+ {
+  "ch": 32,
+  "title": "The Prince Who Was Seventeen",
+  "chars": 16162,
+  "date": "2026-08-16 10:43",
+  "msg_i": 61,
+  "seg_start": 97,
+  "seg_end": 16261,
+  "node": "c178d015-4569-4071-bcf6-d2fc6e164ea3"
+ },
+ {
+  "ch": 33,
+  "title": "The Blood Broker",
+  "chars": 14986,
+  "date": "2026-08-16 10:43",
+  "msg_i": 61,
+  "seg_start": 16261,
+  "seg_end": 31248,
+  "node": "c178d015-4569-4071-bcf6-d2fc6e164ea3"
+ },
+ {
+  "ch": 34,
+  "title": "The Market That Sold Blood",
+  "chars": 14322,
+  "date": "2026-08-17 02:21",
+  "msg_i": 62,
+  "seg_start": 97,
+  "seg_end": 14421,
+  "node": "5c960a6d-ad1d-49ef-ac30-e42e5beaa829"
+ },
+ {
+  "ch": 35,
+  "title": "Little Flame",
+  "chars": 11884,
+  "date": "2026-08-17 02:21",
+  "msg_i": 62,
+  "seg_start": 14421,
+  "seg_end": 26306,
+  "node": "5c960a6d-ad1d-49ef-ac30-e42e5beaa829"
+ },
+ {
+  "ch": 36,
+  "title": "The House That Bought Dragons",
+  "chars": 17556,
+  "date": "2026-08-17 10:08",
+  "msg_i": 64,
+  "seg_start": 97,
+  "seg_end": 17655,
+  "node": "ae34666e-ec06-4927-8c1a-fa79c8b644c7"
+ },
+ {
+  "ch": 37,
+  "title": "The Brother She Buried",
+  "chars": 14284,
+  "date": "2026-08-17 10:08",
+  "msg_i": 64,
+  "seg_start": 17655,
+  "seg_end": 31940,
+  "node": "ae34666e-ec06-4927-8c1a-fa79c8b644c7"
+ },
+ {
+  "ch": 38,
+  "title": "The Red Passage",
+  "chars": 13108,
+  "date": "2026-08-17 13:02",
+  "msg_i": 65,
+  "seg_start": 98,
+  "seg_end": 13208,
+  "node": "52296ee7-35b3-42ea-a413-67712bbe04f0"
+ },
+ {
+  "ch": 39,
+  "title": "The Family Khell Could Not Sell",
+  "chars": 15498,
+  "date": "2026-08-17 13:02",
+  "msg_i": 65,
+  "seg_start": 13208,
+  "seg_end": 28707,
+  "node": "52296ee7-35b3-42ea-a413-67712bbe04f0"
+ },
+ {
+  "ch": 40,
+  "title": "The Last Year of Childhood",
+  "chars": 16075,
+  "date": "2026-08-17 13:49",
+  "msg_i": 67,
+  "seg_start": 89,
+  "seg_end": 16166,
+  "node": "68a3fa65-7484-400f-b7a8-62b8af5fe676"
+ },
+ {
+  "ch": 41,
+  "title": "The Boys Who Hunt Back",
+  "chars": 16215,
+  "date": "2026-08-17 13:49",
+  "msg_i": 67,
+  "seg_start": 16166,
+  "seg_end": 32382,
+  "node": "68a3fa65-7484-400f-b7a8-62b8af5fe676"
+ },
+ {
+  "ch": 40,
+  "title": "The Last Night of Ten",
+  "chars": 18499,
+  "date": "2026-08-18 02:45",
+  "msg_i": 69,
+  "seg_start": 0,
+  "seg_end": 18500,
+  "node": "f28d8767-ae0d-4335-9da1-d31b7dc40ecf"
+ },
+ {
+  "ch": 41,
+  "title": "What Survived",
+  "chars": 16809,
+  "date": "2026-08-18 02:45",
+  "msg_i": 69,
+  "seg_start": 18500,
+  "seg_end": 35310,
+  "node": "f28d8767-ae0d-4335-9da1-d31b7dc40ecf"
+ },
+ {
+  "ch": 42,
+  "title": "The Price of Interference",
+  "chars": 16024,
+  "date": "2026-08-18 02:49",
+  "msg_i": 71,
+  "seg_start": 95,
+  "seg_end": 16121,
+  "node": "57874351-7b04-4eaf-84f3-258c61108638"
+ },
+ {
+  "ch": 43,
+  "title": "What Monsters Deserve",
+  "chars": 21257,
+  "date": "2026-08-18 02:49",
+  "msg_i": 71,
+  "seg_start": 16121,
+  "seg_end": 37379,
+  "node": "57874351-7b04-4eaf-84f3-258c61108638"
+ },
+ {
+  "ch": 44,
+  "title": "The Kingdom That Could Not Eat Pride",
+  "chars": 14811,
+  "date": "2026-08-19 09:49",
+  "msg_i": 73,
+  "seg_start": 41,
+  "seg_end": 14854,
+  "node": "95d0cd45-d386-4707-a66b-a944b97ab7ec"
+ },
+ {
+  "ch": 45,
+  "title": "Gold Does Not Belong to One Boy",
+  "chars": 17796,
+  "date": "2026-08-19 09:49",
+  "msg_i": 73,
+  "seg_start": 14854,
+  "seg_end": 32651,
+  "node": "95d0cd45-d386-4707-a66b-a944b97ab7ec"
+ },
+ {
+  "ch": 46,
+  "title": "The Name Beneath the Seal",
+  "chars": 11430,
+  "date": "2026-08-22 20:15",
+  "msg_i": 74,
+  "seg_start": 0,
+  "seg_end": 11431,
+  "node": "4ce067ea-df70-454c-b7f9-3c2f86d3a4d8"
+ },
+ {
+  "ch": 47,
+  "title": "Burn the Records",
+  "chars": 13062,
+  "date": "2026-08-22 20:15",
+  "msg_i": 74,
+  "seg_start": 11431,
+  "seg_end": 24494,
+  "node": "4ce067ea-df70-454c-b7f9-3c2f86d3a4d8"
+ },
+ {
+  "ch": 48,
+  "title": "The Things Kings Cannot Punch",
+  "chars": 14834,
+  "date": "2026-08-22 20:24",
+  "msg_i": 76,
+  "seg_start": 41,
+  "seg_end": 14877,
+  "node": "bf36a2c0-89a3-41ba-b03a-92d1da78d56b"
+ },
+ {
+  "ch": 49,
+  "title": "The Son Who Came Back",
+  "chars": 15399,
+  "date": "2026-08-22 20:24",
+  "msg_i": 76,
+  "seg_start": 14877,
+  "seg_end": 30277,
+  "node": "bf36a2c0-89a3-41ba-b03a-92d1da78d56b"
+ },
+ {
+  "ch": 50,
+  "title": "Where Kingdom Maps End",
+  "chars": 10826,
+  "date": "2026-08-22 20:48",
+  "msg_i": 78,
+  "seg_start": 0,
+  "seg_end": 10827,
+  "node": "6283edfa-d510-44c7-9e9c-6316d9cf5878"
+ },
+ {
+  "ch": 51,
+  "title": "The Place Beneath Places",
+  "chars": 18523,
+  "date": "2026-08-22 20:48",
+  "msg_i": 78,
+  "seg_start": 10827,
+  "seg_end": 29351,
+  "node": "6283edfa-d510-44c7-9e9c-6316d9cf5878"
+ },
+ {
+  "ch": 52,
+  "title": "The Country Without Roads",
+  "chars": 12299,
+  "date": "2026-08-22 20:57",
+  "msg_i": 79,
+  "seg_start": 41,
+  "seg_end": 12342,
+  "node": "c037f4b7-d43f-4339-8d10-408a78fa4fe5"
+ },
+ {
+  "ch": 53,
+  "title": "The Men Who Built a Sun",
+  "chars": 18673,
+  "date": "2026-08-22 20:57",
+  "msg_i": 79,
+  "seg_start": 12342,
+  "seg_end": 31016,
+  "node": "c037f4b7-d43f-4339-8d10-408a78fa4fe5"
+ },
+ {
+  "ch": 54,
+  "title": "The Things That Follow Rivers",
+  "chars": 12882,
+  "date": "2026-08-23 13:35",
+  "msg_i": 80,
+  "seg_start": 41,
+  "seg_end": 12925,
+  "node": "a9ebef6c-a8fc-462b-a6b3-3ab55a382a72"
+ },
+ {
+  "ch": 55,
+  "title": "The Shepherd of Nothing",
+  "chars": 15198,
+  "date": "2026-08-23 13:35",
+  "msg_i": 80,
+  "seg_start": 12925,
+  "seg_end": 28124,
+  "node": "a9ebef6c-a8fc-462b-a6b3-3ab55a382a72"
+ },
+ {
+  "ch": 56,
+  "title": "Nanda Parbat",
+  "chars": 18152,
+  "date": "2026-08-23 23:20",
+  "msg_i": 82,
+  "seg_start": 0,
+  "seg_end": 18153,
+  "node": "f0302515-0ad0-4a0f-a28b-d84cfae95aa4"
+ },
+ {
+  "ch": 57,
+  "title": "Bloodsong",
+  "chars": 16704,
+  "date": "2026-08-23 23:20",
+  "msg_i": 82,
+  "seg_start": 18153,
+  "seg_end": 34858,
+  "node": "f0302515-0ad0-4a0f-a28b-d84cfae95aa4"
+ },
+ {
+  "ch": 58,
+  "title": "The Empty Place",
+  "chars": 18551,
+  "date": "2026-08-23 23:32",
+  "msg_i": 85,
+  "seg_start": 41,
+  "seg_end": 18594,
+  "node": "d6c3f0e9-643e-40f1-9789-e9e47c55ffde"
+ },
+ {
+  "ch": 59,
+  "title": "The Voice Inside Blood",
+  "chars": 16560,
+  "date": "2026-08-23 23:32",
+  "msg_i": 85,
+  "seg_start": 18594,
+  "seg_end": 35155,
+  "node": "d6c3f0e9-643e-40f1-9789-e9e47c55ffde"
+ },
+ {
+  "ch": 60,
+  "title": "The Years That Made the King",
+  "chars": 30983,
+  "date": "2026-08-24 00:02",
+  "msg_i": 87,
+  "seg_start": 41,
+  "seg_end": 31026,
+  "node": "e0d7414b-0a96-4218-8590-daba1ce1c00d"
+ },
+ {
+  "ch": 61,
+  "title": "The Prophecy and the Son",
+  "chars": 21195,
+  "date": "2026-08-24 00:02",
+  "msg_i": 87,
+  "seg_start": 31026,
+  "seg_end": 52222,
+  "node": "e0d7414b-0a96-4218-8590-daba1ce1c00d"
+ },
+ {
+  "ch": 62,
+  "title": "The Crimson Demonic Dragon",
+  "chars": 12635,
+  "date": "2026-08-24 01:13",
+  "msg_i": 89,
+  "seg_start": 41,
+  "seg_end": 12678,
+  "node": "482ba432-1914-4cb9-8e02-3f12210b5eec"
+ },
+ {
+  "ch": 63,
+  "title": "The King Is the Wolf",
+  "chars": 11884,
+  "date": "2026-08-24 01:13",
+  "msg_i": 89,
+  "seg_start": 12678,
+  "seg_end": 24563,
+  "node": "482ba432-1914-4cb9-8e02-3f12210b5eec"
+ },
+ {
+  "ch": 64,
+  "title": "Fire Over Drakonis",
+  "chars": 7642,
+  "date": "2026-08-24 13:41",
+  "msg_i": 91,
+  "seg_start": 41,
+  "seg_end": 7685,
+  "node": "c71a3fa7-9d46-4608-9d0e-223c25f5fba8"
+ },
+ {
+  "ch": 65,
+  "title": "Before They Could Try Again",
+  "chars": 11207,
+  "date": "2026-08-24 13:41",
+  "msg_i": 91,
+  "seg_start": 7685,
+  "seg_end": 18893,
+  "node": "c71a3fa7-9d46-4608-9d0e-223c25f5fba8"
+ },
+ {
+  "ch": 66,
+  "title": "House Veylan",
+  "chars": 9465,
+  "date": "2026-08-24 13:46",
+  "msg_i": 92,
+  "seg_start": 41,
+  "seg_end": 9508,
+  "node": "4b9aaaff-ba8b-4c96-8595-2d781638c92f"
+ },
+ {
+  "ch": 67,
+  "title": "The Hand on the Dragon Link",
+  "chars": 12113,
+  "date": "2026-08-24 13:46",
+  "msg_i": 92,
+  "seg_start": 9508,
+  "seg_end": 21622,
+  "node": "4b9aaaff-ba8b-4c96-8595-2d781638c92f"
+ },
+ {
+  "ch": 68,
+  "title": "The Villages That Burned First",
+  "chars": 8435,
+  "date": "2026-08-24 14:01",
+  "msg_i": 94,
+  "seg_start": 41,
+  "seg_end": 8478,
+  "node": "01a89624-5250-4460-915b-4998227daa50"
+ },
+ {
+  "ch": 69,
+  "title": "Greyhaven",
+  "chars": 9799,
+  "date": "2026-08-24 14:01",
+  "msg_i": 94,
+  "seg_start": 8478,
+  "seg_end": 18278,
+  "node": "01a89624-5250-4460-915b-4998227daa50"
+ },
+ {
+  "ch": 70,
+  "title": "The First Name",
+  "chars": 7424,
+  "date": "2026-08-24 14:29",
+  "msg_i": 95,
+  "seg_start": 41,
+  "seg_end": 7467,
+  "node": "a9b3ecae-832f-4c23-811b-70a65da86be6"
+ },
+ {
+  "ch": 71,
+  "title": "The Woman Who Chose First",
+  "chars": 9852,
+  "date": "2026-08-24 14:29",
+  "msg_i": 95,
+  "seg_start": 7467,
+  "seg_end": 17320,
+  "node": "a9b3ecae-832f-4c23-811b-70a65da86be6"
+ },
+ {
+  "ch": 72,
+  "title": "The Man Who Wanted the King Alive",
+  "chars": 9416,
+  "date": "2026-08-24 14:47",
+  "msg_i": 96,
+  "seg_start": 41,
+  "seg_end": 9459,
+  "node": "4f7ab945-6243-4116-8471-9fe6995f0df5"
+ },
+ {
+  "ch": 73,
+  "title": "High Witch Keira Morn",
+  "chars": 9793,
+  "date": "2026-08-24 14:47",
+  "msg_i": 96,
+  "seg_start": 9459,
+  "seg_end": 19253,
+  "node": "4f7ab945-6243-4116-8471-9fe6995f0df5"
+ },
+ {
+  "ch": 74,
+  "title": "The Salt Cathedral",
+  "chars": 11179,
+  "date": "2026-08-24 15:05",
+  "msg_i": 99,
+  "seg_start": 41,
+  "seg_end": 11222,
+  "node": "0036495b-3d0f-4848-9ed0-028108beb460"
+ },
+ {
+  "ch": 75,
+  "title": "Seven Knives",
+  "chars": 11586,
+  "date": "2026-08-24 15:05",
+  "msg_i": 99,
+  "seg_start": 11222,
+  "seg_end": 22809,
+  "node": "0036495b-3d0f-4848-9ed0-028108beb460"
+ },
+ {
+  "ch": 76,
+  "title": "The Attack That Never Happened",
+  "chars": 7545,
+  "date": "2026-08-24 15:39",
+  "msg_i": 100,
+  "seg_start": 41,
+  "seg_end": 7588,
+  "node": "7a329777-1776-4807-ac5c-8f3c20cc23c1"
+ },
+ {
+  "ch": 77,
+  "title": "Teeth Beneath the Lake",
+  "chars": 10478,
+  "date": "2026-08-24 15:39",
+  "msg_i": 100,
+  "seg_start": 7588,
+  "seg_end": 18067,
+  "node": "7a329777-1776-4807-ac5c-8f3c20cc23c1"
+ },
+ {
+  "ch": 76,
+  "title": "The People Zee Could Not Reach",
+  "chars": 10649,
+  "date": "2026-08-24 23:18",
+  "msg_i": 103,
+  "seg_start": 41,
+  "seg_end": 10692,
+  "node": "6e45e997-1973-4f40-8388-8e46f14a91a1"
+ },
+ {
+  "ch": 77,
+  "title": "What His Blood Had Made",
+  "chars": 12418,
+  "date": "2026-08-24 23:18",
+  "msg_i": 103,
+  "seg_start": 10692,
+  "seg_end": 23111,
+  "node": "6e45e997-1973-4f40-8388-8e46f14a91a1"
+ },
+ {
+  "ch": 78,
+  "title": "The First Hybrid",
+  "chars": 9086,
+  "date": "2026-08-24 23:33",
+  "msg_i": 104,
+  "seg_start": 41,
+  "seg_end": 9129,
+  "node": "6be5f571-b22a-4531-a7d8-8f80d1ac27cb"
+ },
+ {
+  "ch": 79,
+  "title": "The Wolf Who Refused to Die",
+  "chars": 11431,
+  "date": "2026-08-24 23:33",
+  "msg_i": 104,
+  "seg_start": 9129,
+  "seg_end": 20561,
+  "node": "6be5f571-b22a-4531-a7d8-8f80d1ac27cb"
+ },
+ {
+  "ch": 80,
+  "title": "The Kingdom That Came to Darkheart",
+  "chars": 4946,
+  "date": "2026-08-25 02:16",
+  "msg_i": 106,
+  "seg_start": 41,
+  "seg_end": 4989,
+  "node": "d30dc5eb-dd76-4d38-9be8-6fdb45491185"
+ },
+ {
+  "ch": 81,
+  "title": "The Third Beginning",
+  "chars": 5452,
+  "date": "2026-08-25 02:16",
+  "msg_i": 106,
+  "seg_start": 4989,
+  "seg_end": 10442,
+  "node": "d30dc5eb-dd76-4d38-9be8-6fdb45491185"
+ },
+ {
+  "ch": 82,
+  "title": "The Price of Crimson Blood",
+  "chars": 6488,
+  "date": "2026-08-25 17:37",
+  "msg_i": 107,
+  "seg_start": 41,
+  "seg_end": 6531,
+  "node": "0b744c9f-2968-4e74-bc7b-5fda6df49f20"
+ },
+ {
+  "ch": 83,
+  "title": "The Market of Living Blood",
+  "chars": 8463,
+  "date": "2026-08-25 17:37",
+  "msg_i": 107,
+  "seg_start": 6531,
+  "seg_end": 14995,
+  "node": "0b744c9f-2968-4e74-bc7b-5fda6df49f20"
+ },
+ {
+  "ch": 84,
+  "title": "The Blood Between Brothers",
+  "chars": 5721,
+  "date": "2026-09-05 16:27",
+  "msg_i": 109,
+  "seg_start": 102,
+  "seg_end": 5825,
+  "node": "f91cfbe2-386a-40e0-a855-189537efa879"
+ },
+ {
+  "ch": 85,
+  "title": "What Survived Beneath Darkheart",
+  "chars": 8169,
+  "date": "2026-09-05 16:27",
+  "msg_i": 109,
+  "seg_start": 5825,
+  "seg_end": 13995,
+  "node": "f91cfbe2-386a-40e0-a855-189537efa879"
+ },
+ {
+  "ch": 86,
+  "title": "The Prince Vesper Chose",
+  "chars": 4322,
+  "date": "2026-09-05 16:32",
+  "msg_i": 111,
+  "seg_start": 102,
+  "seg_end": 4426,
+  "node": "828105f6-19e7-429f-9f18-afcff9870d27"
+ },
+ {
+  "ch": 87,
+  "title": "A Kingdom Bigger Than Its Walls",
+  "chars": 7371,
+  "date": "2026-09-05 16:32",
+  "msg_i": 111,
+  "seg_start": 4426,
+  "seg_end": 11798,
+  "node": "828105f6-19e7-429f-9f18-afcff9870d27"
+ },
+ {
+  "ch": 88,
+  "title": "The Night Southhold Screamed",
+  "chars": 7902,
+  "date": "2026-09-05 16:38",
+  "msg_i": 113,
+  "seg_start": 103,
+  "seg_end": 8007,
+  "node": "fe7990a4-aa9f-40aa-8907-1cd94f3d4bc0"
+ },
+ {
+  "ch": 89,
+  "title": "The King Who Stopped Waiting",
+  "chars": 7921,
+  "date": "2026-09-05 16:38",
+  "msg_i": 113,
+  "seg_start": 8007,
+  "seg_end": 15929,
+  "node": "fe7990a4-aa9f-40aa-8907-1cd94f3d4bc0"
+ },
+ {
+  "ch": 88,
+  "title": "When the King Broke",
+  "chars": 7956,
+  "date": "2026-09-05 16:46",
+  "msg_i": 115,
+  "seg_start": 103,
+  "seg_end": 8061,
+  "node": "59247f6b-0290-4000-becf-28e9ad935718"
+ },
+ {
+  "ch": 89,
+  "title": "What Darkheart Saw",
+  "chars": 8502,
+  "date": "2026-09-05 16:46",
+  "msg_i": 115,
+  "seg_start": 8061,
+  "seg_end": 16564,
+  "node": "59247f6b-0290-4000-becf-28e9ad935718"
+ },
+ {
+  "ch": 90,
+  "title": "The Night the King Broke",
+  "chars": 7846,
+  "date": "2026-09-05 16:54",
+  "msg_i": 117,
+  "seg_start": 96,
+  "seg_end": 7944,
+  "node": "a9bff5af-0416-4258-acf7-7aa2dad9a8b7"
+ },
+ {
+  "ch": 91,
+  "title": "The Monster Darkheart Feared",
+  "chars": 7702,
+  "date": "2026-09-05 16:54",
+  "msg_i": 117,
+  "seg_start": 7944,
+  "seg_end": 15647,
+  "node": "a9bff5af-0416-4258-acf7-7aa2dad9a8b7"
+ },
+ {
+  "ch": 92,
+  "title": "When Choice Disappeared",
+  "chars": 10705,
+  "date": "2026-09-05 17:06",
+  "msg_i": 119,
+  "seg_start": 102,
+  "seg_end": 10809,
+  "node": "dbc1ff16-0b36-4285-b00a-e3387a61d201"
+ },
+ {
+  "ch": 93,
+  "title": "What Darkheart Saw",
+  "chars": 10396,
+  "date": "2026-09-05 17:06",
+  "msg_i": 119,
+  "seg_start": 10809,
+  "seg_end": 21206,
+  "node": "dbc1ff16-0b36-4285-b00a-e3387a61d201"
+ },
+ {
+  "ch": 94,
+  "title": "The Man Who Killed Gods",
+  "chars": 8255,
+  "date": "2026-09-05 17:23",
+  "msg_i": 121,
+  "seg_start": 102,
+  "seg_end": 8359,
+  "node": "4dacb8a7-b4a6-455d-8c9e-5009496daec3"
+ },
+ {
+  "ch": 95,
+  "title": "Dark Divinity",
+  "chars": 9437,
+  "date": "2026-09-05 17:23",
+  "msg_i": 121,
+  "seg_start": 8359,
+  "seg_end": 17797,
+  "node": "4dacb8a7-b4a6-455d-8c9e-5009496daec3"
+ },
+ {
+  "ch": 96,
+  "title": "Before the Same Sun Set",
+  "chars": 11362,
+  "date": "2026-09-05 17:32",
+  "msg_i": 123,
+  "seg_start": 102,
+  "seg_end": 11466,
+  "node": "8656a76a-a83a-4cf6-8cc7-66f93588e7e8"
+ },
+ {
+  "ch": 97,
+  "title": "The Queen Beneath the Water",
+  "chars": 13010,
+  "date": "2026-09-05 17:32",
+  "msg_i": 123,
+  "seg_start": 11466,
+  "seg_end": 24477,
+  "node": "8656a76a-a83a-4cf6-8cc7-66f93588e7e8"
+ },
+ {
+  "ch": 98,
+  "title": "The Kingdom Beneath the Ocean",
+  "chars": 8276,
+  "date": "2026-09-08 00:27",
+  "msg_i": 126,
+  "seg_start": 103,
+  "seg_end": 8381,
+  "node": "287ec8fc-8ed9-454a-bbe8-8fd58a476712"
+ },
+ {
+  "ch": 99,
+  "title": "The People Behind the Crowns",
+  "chars": 9284,
+  "date": "2026-09-08 00:27",
+  "msg_i": 126,
+  "seg_start": 8381,
+  "seg_end": 17666,
+  "node": "287ec8fc-8ed9-454a-bbe8-8fd58a476712"
+ },
+ {
+  "ch": 100,
+  "title": "The Year the Sea Came Ashore",
+  "chars": 8074,
+  "date": "2026-09-08 00:50",
+  "msg_i": 127,
+  "seg_start": 106,
+  "seg_end": 8182,
+  "node": "5dcbb525-4ead-4e90-b5c4-09e7d8591848"
+ },
+ {
+  "ch": 101,
+  "title": "The Question of Heirs",
+  "chars": 8785,
+  "date": "2026-09-08 00:50",
+  "msg_i": 127,
+  "seg_start": 8182,
+  "seg_end": 16968,
+  "node": "5dcbb525-4ead-4e90-b5c4-09e7d8591848"
+ },
+ {
+  "ch": 102,
+  "title": "The Child They Chose",
+  "chars": 10344,
+  "date": "2026-09-08 01:14",
+  "msg_i": 129,
+  "seg_start": 112,
+  "seg_end": 10458,
+  "node": "6ab7f8b4-7ef0-4779-abc4-bf54f0da509f"
+ },
+ {
+  "ch": 103,
+  "title": "The Child the World Forgot",
+  "chars": 17664,
+  "date": "2026-09-08 01:14",
+  "msg_i": 129,
+  "seg_start": 10458,
+  "seg_end": 28123,
+  "node": "6ab7f8b4-7ef0-4779-abc4-bf54f0da509f"
+ },
+ {
+  "ch": 104,
+  "title": "Uncle Rez",
+  "chars": 10746,
+  "date": "2026-09-08 01:53",
+  "msg_i": 131,
+  "seg_start": 92,
+  "seg_end": 10839,
+  "node": "98cb315e-061b-40f1-be75-85670172cb26"
+ },
+ {
+  "ch": 105,
+  "title": "The First Three Names",
+  "chars": 14835,
+  "date": "2026-09-08 02:45",
+  "msg_i": 133,
+  "seg_start": 111,
+  "seg_end": 14948,
+  "node": "f014f695-36ee-4107-9083-4057485ab0ec"
+ },
+ {
+  "ch": 106,
+  "title": "The Last Three Names",
+  "chars": 18829,
+  "date": "2026-09-08 02:45",
+  "msg_i": 133,
+  "seg_start": 14948,
+  "seg_end": 33778,
+  "node": "f014f695-36ee-4107-9083-4057485ab0ec"
+ },
+ {
+  "ch": 107,
+  "title": "The Heartbeat Between Them",
+  "chars": 9353,
+  "date": "2026-09-08 03:26",
+  "msg_i": 135,
+  "seg_start": 114,
+  "seg_end": 9469,
+  "node": "87397ea1-31d1-41fb-a7b9-a67bd45a89c7"
+ },
+ {
+  "ch": 108,
+  "title": "The Child Beneath Gold",
+  "chars": 11431,
+  "date": "2026-09-08 03:26",
+  "msg_i": 135,
+  "seg_start": 9469,
+  "seg_end": 20901,
+  "node": "87397ea1-31d1-41fb-a7b9-a67bd45a89c7"
+ },
+ {
+  "ch": 109,
+  "title": "The Kingdom of Ash",
+  "chars": 22114,
+  "date": "2026-09-08 03:54",
+  "msg_i": 137,
+  "seg_start": 92,
+  "seg_end": 22207,
+  "node": "72e7687d-772b-4c70-8149-7aad0262bd27"
+ },
+ {
+  "ch": 110,
+  "title": "The First Created Tribrid",
+  "chars": 14615,
+  "date": "2026-09-08 04:09",
+  "msg_i": 139,
+  "seg_start": 113,
+  "seg_end": 14730,
+  "node": "526691fc-ecf5-4af9-bd5f-88a03f31e9b7"
+ },
+ {
+  "ch": 111,
+  "title": "The World Learns What Crimson Blood Can Do",
+  "chars": 13308,
+  "date": "2026-09-08 04:09",
+  "msg_i": 139,
+  "seg_start": 14730,
+  "seg_end": 28039,
+  "node": "526691fc-ecf5-4af9-bd5f-88a03f31e9b7"
+ },
+ {
+  "ch": 112,
+  "title": "The Prince Darkheart Was Allowed to Know",
+  "chars": 8722,
+  "date": "2026-09-08 04:45",
+  "msg_i": 140,
+  "seg_start": 118,
+  "seg_end": 8842,
+  "node": "6346a16b-a582-46f0-8056-44edd5e82bcd"
+ },
+ {
+  "ch": 113,
+  "title": "The Blood That Would Not Stay Broken",
+  "chars": 13729,
+  "date": "2026-09-08 04:45",
+  "msg_i": 140,
+  "seg_start": 8842,
+  "seg_end": 22572,
+  "node": "6346a16b-a582-46f0-8056-44edd5e82bcd"
+ },
+ {
+  "ch": 114,
+  "title": "The Friend They Took",
+  "chars": 14243,
+  "date": "2026-09-08 04:54",
+  "msg_i": 143,
+  "seg_start": 119,
+  "seg_end": 14364,
+  "node": "d010cedb-1767-4d6e-a9ab-431fe68b5d09"
+ },
+ {
+  "ch": 115,
+  "title": "The Eighth Month",
+  "chars": 11428,
+  "date": "2026-09-08 04:54",
+  "msg_i": 143,
+  "seg_start": 14364,
+  "seg_end": 25793,
+  "node": "d010cedb-1767-4d6e-a9ab-431fe68b5d09"
+ },
+ {
+  "ch": 116,
+  "title": "The Birth of the Crimson-Gold Prince",
+  "chars": 15556,
+  "date": "2026-09-08 05:04",
+  "msg_i": 145,
+  "seg_start": 95,
+  "seg_end": 15652,
+  "node": "b95c1478-3678-4ae6-be85-22d8d77d3e47"
+ },
+ {
+  "ch": 117,
+  "title": "The Son Who Knew His Father",
+  "chars": 7674,
+  "date": "2026-09-08 05:13",
+  "msg_i": 147,
+  "seg_start": 121,
+  "seg_end": 7797,
+  "node": "1b9f4afe-be7b-468a-b600-d0356dc59d70"
+ },
+ {
+  "ch": 118,
+  "title": "The Price of New Blood",
+  "chars": 10479,
+  "date": "2026-09-08 05:13",
+  "msg_i": 147,
+  "seg_start": 7797,
+  "seg_end": 18277,
+  "node": "1b9f4afe-be7b-468a-b600-d0356dc59d70"
+ },
+ {
+  "ch": 119,
+  "title": "The Hand at the Cradle",
+  "chars": 17839,
+  "date": "2026-09-08 05:32",
+  "msg_i": 149,
+  "seg_start": 96,
+  "seg_end": 17936,
+  "node": "4612c698-c3da-4a5e-a82f-a708e302f177"
+ },
+ {
+  "ch": 120,
+  "title": "The Prince Who Stayed in the Light",
+  "chars": 11201,
+  "date": "2026-09-08 05:41",
+  "msg_i": 151,
+  "seg_start": 120,
+  "seg_end": 11323,
+  "node": "e189dc7f-0d7d-49a5-a59e-7bc15f304669"
+ },
+ {
+  "ch": 121,
+  "title": "The First Month of the Prince",
+  "chars": 9509,
+  "date": "2026-09-08 05:41",
+  "msg_i": 151,
+  "seg_start": 11323,
+  "seg_end": 20833,
+  "node": "e189dc7f-0d7d-49a5-a59e-7bc15f304669"
+ },
+ {
+  "ch": 122,
+  "title": "The Forest That Silenced Blood",
+  "chars": 11867,
+  "date": "2026-09-08 11:41",
+  "msg_i": 152,
+  "seg_start": 126,
+  "seg_end": 11995,
+  "node": "b61c962c-c71a-44f6-bf97-adf01a5ffbd3"
+ },
+ {
+  "ch": 123,
+  "title": "The Thing That Could Not Silence Choice",
+  "chars": 13232,
+  "date": "2026-09-08 11:41",
+  "msg_i": 152,
+  "seg_start": 11995,
+  "seg_end": 25228,
+  "node": "b61c962c-c71a-44f6-bf97-adf01a5ffbd3"
+ },
+ {
+  "ch": 124,
+  "title": "The Blood That Chose Its Own Shape",
+  "chars": 14283,
+  "date": "2026-09-08 14:26",
+  "msg_i": 154,
+  "seg_start": 126,
+  "seg_end": 14411,
+  "node": "4a5dee7a-988c-494d-bf9c-117306727244"
+ },
+ {
+  "ch": 125,
+  "title": "The First Time the Prince Left Darkheart",
+  "chars": 8806,
+  "date": "2026-09-08 14:26",
+  "msg_i": 154,
+  "seg_start": 14411,
+  "seg_end": 23218,
+  "node": "4a5dee7a-988c-494d-bf9c-117306727244"
+ },
+ {
+  "ch": 126,
+  "title": "The Thing Beyond the Stars",
+  "chars": 11149,
+  "date": "2026-09-08 15:28",
+  "msg_i": 156,
+  "seg_start": 126,
+  "seg_end": 11277,
+  "node": "9e0b5346-4a34-4ca3-ae7c-cd8d5b24b7dc"
+ },
+ {
+  "ch": 127,
+  "title": "The World Above the World",
+  "chars": 11140,
+  "date": "2026-09-08 15:28",
+  "msg_i": 156,
+  "seg_start": 11277,
+  "seg_end": 22418,
+  "node": "9e0b5346-4a34-4ca3-ae7c-cd8d5b24b7dc"
+ },
+ {
+  "ch": 128,
+  "title": "The Blood That Rose",
+  "chars": 18268,
+  "date": "2026-09-08 23:34",
+  "msg_i": 158,
+  "seg_start": 100,
+  "seg_end": 18369,
+  "node": "a3aa6898-fd8f-442c-98b6-20f78dcdb736"
+ },
+ {
+  "ch": 129,
+  "title": "The Family Finds the King",
+  "chars": 26283,
+  "date": "2026-09-08 23:46",
+  "msg_i": 160,
+  "seg_start": 99,
+  "seg_end": 26383,
+  "node": "ae6a48e4-595e-4818-9cb0-defced5450ac"
+ },
+ {
+  "ch": 130,
+  "title": "The Monster Who Remembers Losing",
+  "chars": 12587,
+  "date": "2026-09-08 23:56",
+  "msg_i": 162,
+  "seg_start": 120,
+  "seg_end": 12709,
+  "node": "ef5df93d-a4d8-486f-be3d-11cd96e7c246"
+ },
+ {
+  "ch": 131,
+  "title": "The First Trail",
+  "chars": 14899,
+  "date": "2026-09-08 23:56",
+  "msg_i": 162,
+  "seg_start": 12709,
+  "seg_end": 27609,
+  "node": "ef5df93d-a4d8-486f-be3d-11cd96e7c246"
+ },
+ {
+  "ch": 132,
+  "title": "The Father Who Watches",
+  "chars": 13868,
+  "date": "2026-09-09 14:53",
+  "msg_i": 164,
+  "seg_start": 126,
+  "seg_end": 13996,
+  "node": "b10d8d22-9df9-4a55-8795-5458882076fa"
+ },
+ {
+  "ch": 133,
+  "title": "How Far a Father Goes",
+  "chars": 15673,
+  "date": "2026-09-09 14:53",
+  "msg_i": 164,
+  "seg_start": 13996,
+  "seg_end": 29670,
+  "node": "b10d8d22-9df9-4a55-8795-5458882076fa"
+ },
+ {
+  "ch": 134,
+  "title": "The Father Who Came Back",
+  "chars": 13544,
+  "date": "2026-09-09 16:22",
+  "msg_i": 166,
+  "seg_start": 126,
+  "seg_end": 13672,
+  "node": "73d0b5a4-b0a4-4098-b4f2-a3409088e819"
+ },
+ {
+  "ch": 135,
+  "title": "The Man Who Refused to Stay Dead",
+  "chars": 10142,
+  "date": "2026-09-09 16:22",
+  "msg_i": 166,
+  "seg_start": 13672,
+  "seg_end": 23815,
+  "node": "73d0b5a4-b0a4-4098-b4f2-a3409088e819"
+ },
+ {
+  "ch": 136,
+  "title": "The Third Time He Walked In",
+  "chars": 6591,
+  "date": "2026-09-09 16:43",
+  "msg_i": 168,
+  "seg_start": 126,
+  "seg_end": 6719,
+  "node": "083381b4-a6c1-4ce8-a0bd-9a6b569d227d"
+ },
+ {
+  "ch": 137,
+  "title": "The Only Parent Left",
+  "chars": 10271,
+  "date": "2026-09-09 16:43",
+  "msg_i": 168,
+  "seg_start": 6719,
+  "seg_end": 16991,
+  "node": "083381b4-a6c1-4ce8-a0bd-9a6b569d227d"
+ },
+ {
+  "ch": 138,
+  "title": "The First Form",
+  "chars": 11420,
+  "date": "2026-09-10 19:05",
+  "msg_i": 170,
+  "seg_start": 127,
+  "seg_end": 11549,
+  "node": "a7242fc0-21f7-43df-b369-37ae2bb48268"
+ },
+ {
+  "ch": 139,
+  "title": "The Boy Behind the Power",
+  "chars": 12266,
+  "date": "2026-09-10 19:05",
+  "msg_i": 170,
+  "seg_start": 11549,
+  "seg_end": 23816,
+  "node": "a7242fc0-21f7-43df-b369-37ae2bb48268"
+ },
+ {
+  "ch": 140,
+  "title": "The Pressure Across the Castle",
+  "chars": 12264,
+  "date": "2026-09-10 19:07",
+  "msg_i": 171,
+  "seg_start": 118,
+  "seg_end": 12384,
+  "node": "b299df9a-4474-43c6-bcf4-daaab8d01b1a"
+ },
+ {
+  "ch": 141,
+  "title": "The Dragon in His Blood",
+  "chars": 10093,
+  "date": "2026-09-10 19:07",
+  "msg_i": 171,
+  "seg_start": 12384,
+  "seg_end": 22478,
+  "node": "b299df9a-4474-43c6-bcf4-daaab8d01b1a"
+ },
+ {
+  "ch": 142,
+  "title": "Father and Son",
+  "chars": 16617,
+  "date": "2026-09-11 19:19",
+  "msg_i": 173,
+  "seg_start": 97,
+  "seg_end": 16715,
+  "node": "a76c9d9b-5a9c-4a47-be28-df01b433b299"
+ },
+ {
+  "ch": 142,
+  "title": "Father and Son",
+  "chars": 20735,
+  "date": "2026-09-11 19:36",
+  "msg_i": 174,
+  "seg_start": 97,
+  "seg_end": 20833,
+  "node": "fb8b0b62-8fe3-413a-99fa-412c268034e9"
+ },
+ {
+  "ch": 143,
+  "title": "The Scent",
+  "chars": 17903,
+  "date": "2026-09-14 20:53",
+  "msg_i": 176,
+  "seg_start": 99,
+  "seg_end": 18003,
+  "node": "056bac9d-3d2f-45c1-af9f-c9d408a970a4"
+ },
+ {
+  "ch": 144,
+  "title": "Selk Varren",
+  "chars": 13058,
+  "date": "2026-09-15 22:26",
+  "msg_i": 178,
+  "seg_start": 124,
+  "seg_end": 13184,
+  "node": "bf2037c1-bea0-49b8-9b1b-0859ae4ec3d8"
+ },
+ {
+  "ch": 145,
+  "title": "The Reaction",
+  "chars": 13860,
+  "date": "2026-09-15 22:26",
+  "msg_i": 178,
+  "seg_start": 13184,
+  "seg_end": 27045,
+  "node": "bf2037c1-bea0-49b8-9b1b-0859ae4ec3d8"
+ },
+ {
+  "ch": 146,
+  "title": "Brannic Dor",
+  "chars": 11724,
+  "date": "2026-09-25 15:15",
+  "msg_i": 180,
+  "seg_start": 75,
+  "seg_end": 11800,
+  "node": "7a35535c-a758-405c-92bf-0e3bdb098d07"
+ }
+]
