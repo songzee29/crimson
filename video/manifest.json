@@ -1,0 +1,95 @@
+{
+  "clips": [
+    {
+      "file": "reel-ch216-the-godfathers-vigil.mp4",
+      "subject": "Ch 216 bedside vigil \u2014 Zee holds the sleeping godchild's marked wrist as the gold goes quiet",
+      "date": "2026-10-12",
+      "status": "unreviewed-proposal (benched per Zee Oct 12 \u2014 he had not seen these; needs his review before anything further)"
+    },
+    {
+      "file": "reel-zee-crowned-in-burning-dark.mp4",
+      "subject": "Zee crowned in burning dark \u2014 coronation wreathed in dark fire and wings, crimson/black/gold",
+      "date": "2026-10-12",
+      "runtime": "0:32",
+      "status": "unreviewed-proposal (benched per Zee Oct 12 \u2014 he had not seen these; needs his review before anything further)"
+    },
+    {
+      "file": "reel-uncle-rez.mp4",
+      "subject": "Uncle Rez \u2014 Zee entrusts infant Aidan to Rez (likeness-matched rebuild: Zee and Rez face-matched to approved portraits, picture-first, 5 distinct beats, no loops)",
+      "date": "2026-10-12",
+      "runtime": "0:50",
+      "method": "picture-first"
+    },
+    {
+      "file": "reel-the-family.mp4",
+      "subject": "The Family \u2014 Zee and Ner with their sons Zayrlen (17) and Azren",
+      "date": "2026-10-12",
+      "runtime": "0:52",
+      "status": "unreviewed-proposal (benched per Zee Oct 12 \u2014 he had not seen these; needs his review before anything further)"
+    },
+    {
+      "file": "reel-two-princes.mp4",
+      "subject": "The Two Princes \u2014 Zee and Rez back to back against the dark",
+      "date": "2026-10-12",
+      "runtime": "0:41",
+      "status": "unreviewed-proposal (benched per Zee Oct 12 \u2014 he had not seen these; needs his review before anything further)"
+    },
+    {
+      "file": "reel-uncle-rez-v2.mp4",
+      "subject": "Uncle Rez \u2014 verified rebuild, 5 distinct beats, likeness-matched (cache-busting copy)",
+      "date": "2026-10-12",
+      "runtime": "0:50"
+    },
+    {
+      "file": "reel-uncle-rez-v3.mp4",
+      "subject": "Uncle Rez \u2014 re-encoded single h264 stream, faststart, 720x1280 (fixes iOS freeze-at-10s)",
+      "date": "2026-10-12",
+      "runtime": "0:50",
+      "status": "keeper per Zee Oct 12 \u2014 sync tighten + polish pending"
+    },
+    {
+      "file": "crimson-office.mp4",
+      "subject": "The Crimson Office \u2014 Zee and Noor's video office: wide hall, desk, rain windows. 30s, no narration",
+      "date": "2026-10-12",
+      "runtime": "0:30",
+      "status": "unreviewed-proposal (benched per Zee Oct 12 \u2014 he had not seen these; needs his review before anything further)"
+    },
+    {
+      "file": "reel-office.mp4",
+      "subject": "Reel's office tour \u2014 3 distinct beats: grand screening room with crimson velvet seats and glowing screen (0:00-0:10), film editing desk with reels, film strips and glowing timeline screens (0:10-0:20), projector room with vintage projector beam, dust and embers, stacked film canisters (0:20-0:30); no people, no readable text, crimson/black/gold throughout",
+      "date": "2026-10-12",
+      "runtime": "0:30",
+      "method": "3x 10s generated clips, normalized h264 yuv420p 720x1280 24fps, single-stream re-encode +faststart (iOS-safe)",
+      "sources": [
+        "reel-office-screening",
+        "reel-office-editing-desk",
+        "reel-office-projector-room"
+      ],
+      "status": "unreviewed-proposal (benched per Zee Oct 12 \u2014 he had not seen these; needs his review before anything further)"
+    },
+    {
+      "file": "reel-uncle-rez-v4.mp4",
+      "subject": "Uncle Rez \u2014 v4 sync fix: narration re-seated (voice ran ~2.1s ahead; 7.18-24.70s region shifted +2.1s at clean pauses, splices verified click-free); each beat's words now inside its 10s picture slot. iOS-safe h264 +faststart. TEMPLATE for all future videos per Zee Oct 12.",
+      "date": "2026-10-12",
+      "runtime": "0:50",
+      "method": "audio re-seat, video stream untouched from v3",
+      "status": "superseded by v5"
+    },
+    {
+      "file": "reel-uncle-rez-v5.mp4",
+      "subject": "Uncle Rez \u2014 v5 full narration rebuild: fresh 5-beat script written picture-first (each beat's words describe exactly what's on screen), deep regal narrator voice; every phrase verified inside its 10s picture slot. 0:11-0:22 sync resolved by construction. iOS-safe h264 +faststart.",
+      "date": "2026-10-12",
+      "runtime": "0:50",
+      "method": "new TTS per beat (avocado_v2:magnus), beat-fitted assembly, video stream untouched from v3",
+      "status": "superseded by v6"
+    },
+    {
+      "file": "reel-uncle-rez-v6.mp4",
+      "subject": "Uncle Rez v6 \u2014 phrase-level re-sync: narration rewritten so every phrase has a visible referent at its exact visual moment (mapped per beat); deep regal voice; all phrases verified inside beats. iOS-safe.",
+      "date": "2026-10-12",
+      "runtime": "0:50",
+      "status": "keeper \u2014 presented to Zee Oct 12 (supersedes v5)"
+    }
+  ],
+  "last_subject": "Crimson Office tour"
+}

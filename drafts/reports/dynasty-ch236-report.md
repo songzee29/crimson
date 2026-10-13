@@ -1,0 +1,28 @@
+# Continuity Report — dynasty-ch236-draft.md ("The Tide Gets Docketed") — 2026-10-12
+
+## Pass 1 — Continuity
+- [OK] Tide-twin = PHENOMENON only (current-direction.md fixed proposal): the drowned carrier-name record and second tide are treated as a phenomenon throughout; no fourth son, no Ner-duplicate boy. The chapter's decisions note this explicitly. Three-son lock untouched (canon.md §3).
+- [OK] Revenge order untouched (current-direction.md safeguard): Vaeren Thoss → Kaldrek Vane → Sera Quill → Jorren Vale → Neris Pell → Drovak Senn. No revenge-target names appear; the chapter is paper-only.
+- [OK] Zee's rule (canon.md §5): the King wins by silence and standing still — no violence, no powers used, no new evolutions (§12 power limits — nothing earned or granted, no contradiction).
+- [OK] Inner circle untouched (canon.md §15): no family on the page. The guardian is the Order's man, not inner circle, so his standing in the water is his own burden — correctly handled.
+- [OK] Carrier-name: draft claims NO mechanism for what the carrier-name does (current-direction.md: "carrier-name rules" are still Zee's open call; "Direction: A — The Drowned Record"). The phenomenon is used as a venue, not explained.
+- [OK] Zee as protagonist (canon.md §13/§16): the King's silence is the arithmetic; Aidan offstage.
+- [QUESTION] The venue's leg rests on "the hour-court of the missing hour" — i.e., the fixed-proposal (NOT locked) Zerlin blackout ("The Hour That Belonged to No One," current-direction.md; the 8 held-batch rulings on it untouched). The hour-court is treated as established fact for the guardian's standing. Per current-direction.md, Ch 158 material is a "canon-clean draft" but the blackout remains a fixed proposal, not locked canon. Is the hour-court venue built on a proposal Zee hasn't ruled yet?
+- [UNVERIFIED] The first-person narrator ("I read the petition standing in the harbor wind..."; ch237 confirms the narrator is "the King's clerk"). An unnamed King's-clerk narrator is not in characters.md or the bibles — but the voice is consistent across the chapter and its drafts claim a ch232 beat lineage. If Zee wants this narrator as a recurring vessel, consider a bible entry; as-is it's a proposal-level choice, not a contradiction.
+- [UNVERIFIED] "The Order" vs "the Order of the Hollow Crown" (canon.md §17 — the Hollow Crown captured Elias Marr): the chapter's Order is never given the full name. Whether "the Order" here IS the Order of the Hollow Crown is unresolved. The guardian/advocate's identity is also unnamed — see Questions.
+- [NOTE] "the disowned man... retained by the sea" advocate: canon.md §17 leaves open whether Elias Marr is Legacy's Elias — the chapter does NOT name the advocate as Elias Marr, so no merge occurs. Do not assume the advocate is Elias; keep it Zee's call.
+
+## Pass 2 — Beta reader notes
+The best paper-torture chapter in the batch. "The magistrate looked at the water. Then at the guardian. Then at the file the clerk held... 'Granted.' One word." — the clerk's pen stopping is the funniest, most human moment in a chapter about metaphysical jurisdiction. The cold open arithmetic ("I had done it the way you do any arithmetic: twice") sells the narrator as someone whose whole religion is paper. The final turn — the tide getting a docket in the enemy's filing cabinet with the enemy's officer legally required to stand in it forever — is the rare scheme that rewards the enemy's cleverness with a trap made of their own cleverness. I'd want more of the advocate standing at the water's edge with empty hands; he's the chapter's Chekhov's gun and he gets one paragraph. One pacing note: the middle argument (the guardian's quoted rationale) runs long in abstract nouns — "the file had exhausted itself arguing about the sea" is the chapter's best line; the surrounding exposition could trust the reader a beat more.
+
+## Pass 3 — Proofread fixes
+1. "the older liturgy cited against it — the one that said the sea carried the body and the sea keeps the drowned, and by the older grammar the carrier of the body is the guardian of the hand" — long but grammatical; suggest breaking after "keeps the drowned."
+2. "He said the sea had been summoned as a party, had testified in cadences the file could cite but never quote, and had been ruled a non-person in a docket it still hadn't left — and a party that the file insists on hearing but refuses to seat needs a venue that belongs to no court and answers to the registry." — the em-dash sentence runs ~60 words; consider splitting at the em-dash.
+3. Upcoming beats beat 2: "a conflict-of-laws machine that eats every ruling the file has made" — excellent; no fix.
+
+## Needs Zee's ruling
+- (from draft footer) The tide's docket is now a registry venue — does the magistrate's grant cover appeals, or is the venue a court of first and only instance with no paper trail out?
+- (from draft footer) Carrier-name rules: the docket is built on the drowned carrier-name record — what does the carrier-name DO, and who can invoke it, before the venue's first motion is filed?
+- (from draft footer) Why does the second tide arrive now — what calls it — before the venue's officer has to rule on a motion he was built to prevent?
+- (Vigil) The hour-court venue assumes the missing-hour blackout. Is the hour-court locked canon, or still riding on the fixed-proposal blackout (pending the 8 held-batch rulings)?
+- (Vigil) Who is the disowned advocate who swore to the waterline — is he Elias Marr, someone new, or someone from the Order's bench? (Unnamed here; no merge with Legacy's Elias until you say so.)

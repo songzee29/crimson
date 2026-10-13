@@ -1,0 +1,28 @@
+# Continuity Report — dynasty-ch235-draft.md ("The Door That Keeps") — 2026-10-12
+
+## Pass 1 — Continuity
+- [OK] Zee's execution of the registry man matches locked canon.md §5: "Do not hurt my own people. If you threaten them... you die. No investigation first." The threat (naming the boys on the form, pricing the nursery door) was met with instant, consequence-driven killing of an outsider.
+- [OK] Inner circle untouched per canon.md §15 — "Ner, Rez, Zareth, Kael, Tessa, Amara — plus family and close friends" are absolute no-target boundaries. Violence lands only on the registry outsider. Ner, Zayrlen, Azren unharmed.
+- [OK] Three-son lock (canon.md §3 + current-direction.md): only Zayrlen and Azren on the page; Aidan never inserted (canon.md §16 — Aidan not to be inserted into new Dynasty scenes). Zayrlen as "the eldest-of-the-two" and the visible heir is consistent with Aidan hidden in Vesper (Ch 104 lock, chapters.md).
+- [OK] Brothers-not-twins rule (current-direction.md, ZEE RULING locked): distinguishing tags held — Zayrlen = "crimson-gold eyes" (read heartbeat, kneels by Azren), Azren = "gold shimmer" (humming, tide-cadence). Consistent across scenes.
+- [OK] Ner carried/birthed both (canon.md §3); Ner's Pure Gold Mana renders as "the gold under his skin" — matches characters.md ("Pure Gold Mana — warm, radiant"). Ner keeps independent agency — sets the corridor's law ("the keeping is ours") and the King follows it (characters.md: Ner "keeps independent agency").
+- [OK] PHOENIX RULING honored in prose: no "Phoenix"/"Abysscin" in the chapter prose. (The footer "Decisions made" names them only as a name-lock compliance note — footer, not prose. No contradiction.)
+- [OK] Tide-twin handled as phenomenon, not a child (current-direction.md): Azren's tide-cadence humming/fluency is a trait, not a fourth son; no Ner-duplicate boy. Draft's own decision note claims no mechanism for the fluency — consistent with "still needs carrier-name rules" being Zee's open call.
+- [WARNING] Ner's bandaged, bleeding hand ("Ner knelt and took both boys' faces in his hands — the bandaged one and the good one") appears without on-page explanation; "The blood had seeped through the sleeve-wrap. He didn't ask how it happened." If ch232–234 drafts established how it happened, the thread is continuous; if not, this is an unexplained wound in THIS chapter's text. Zee-the-character choosing not to ask is fine; the reader has nothing to attach it to. (canon.md §18 drafting rules: arcs must build on consequences of earlier arcs — needs the causal beat to be traceable.)
+- [UNVERIFIED] Upcoming-beats beat 3 names "Rin lights the dark lamp" — "the boy the house fed with no record". Rin does not appear in the chapter prose, but is not in the bibles either (canon.md §10: names from snippets not verified — "Helena" only; Rin is newer). Carried below as a QUESTION.
+- [NOTE] Registry "lullaby inspector" killed at the nursery door — the draft correctly poses the aftermath as Zee's open call, not settled fact (see Questions for Zee).
+
+## Pass 2 — Beta reader notes
+The cold open is terrific: "the particular confidence of men who believe paper is the only country that matters" — a perfect villain for THIS King's skillset, because Zee's violence against paperwork-as-cruelty lands harder than another knife fight. Ner standing in the doorway and deciding "the margin doesn't learn it" is the strongest beat; the chapter belongs to him even with the King killing in it. Zee's kill is four seconds and ugly and procedural, exactly what the tone directive wants — consequence, not cruelty. The brothers' beat is the emotional anchor: Zayrlen counting Azren's breaths by hand on the neck, in tide-cadence, then the house realizing "the house's oldest defense wasn't the door anymore. It was the brothers." I'd want one more line of what the tide-cadence SOUNDS like when Zayrlen speaks it — the fluency is stated, but the reader can't hear it yet. Minor pacing note: the last third ("Later, when the boys were asleep") replays the watch scene without new stakes; one sentence shorter and the lamp beat lands clean.
+
+## Pass 3 — Proofread fixes
+1. "at the pallet folded in the corner" → later "Zayrlen sat up on his pallet" and "Zayrlen on his pallet by the door": the pallet is folded-in-the-corner, then in-use by the door. Pick one position (or have the registry man note the folded pallet while Zayrlen sleeps on the corner one — "his pallet" is ambiguous).
+2. "the file had just learned what happened to the hands it sent" — "hands" plural vs one dead man; change to "the hand it sent" for precision.
+3. "when the laughing gone quiet the way it always went quiet when the eldest was there" — grammatical stumble; suggest "when the laughing had gone quiet the way it always went quiet when the eldest was there."
+4. Upcoming beats beat 3: "the glow is wearing a boy's face" — strong line, keep.
+
+## Needs Zee's ruling
+- (from draft footer) The registry's lullaby inspector is dead at the nursery door — does the registry replace him quietly, or does the corpse buy the house open war on the withholding?
+- (from draft footer) Ner is refusing to let the file learn the nursery door — if the gap court renews its petition to sit in the corridor, does he refuse in open chamber or keep refusing by hand?
+- (Vigil) "Rin" appears in the upcoming beats as "the boy the house fed with no record." Is Rin an established character to name in canon, or still a proposal? (Not in characters.md.)
+- (Vigil) Where did Ner's bandaged hand come from? If the wound's origin is in ch232–234 drafts, the thread is continuous; confirm it's traceable so readers don't hit an unexplained injury here.

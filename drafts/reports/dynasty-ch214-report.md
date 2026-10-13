@@ -1,0 +1,17 @@
+# Continuity Report — dynasty-ch214-draft.md — 2026-10-12
+## Pass 1 — Continuity
+- [QUESTION] The Order hire's death on the quay — the draft itself asks whether it counts against the locked revenge target order. Canon revenge sequence (canon.md §18 reporting / report Part 5): remaining order is **Vaeren Thoss → Kaldrek Vane → Sera Quill → Jorren Vale → Neris Pell → Drovak Senn**. The hire is unnamed and described as Order field-operative class (same as Ch 212's hire), written as Zee's-rule enforcement (reach for the shore-house letter = threat to the King's evidence and his people's standing; kill first, no investigation) — consistent with Zee's locked rule (canon.md §5: "If you threaten them... you die. No investigation first"). No contradiction with the revenge order as written; the question stands for Zee's call.
+- [CLEAN] No named revenge target touched: Thoss, Vane, Sera Quill, Vale, Pell, Senn are all unmentioned/unharmed — the locked order's integrity is preserved.
+- [CLEAN] Inner circle (canon.md §15): no inner-circle characters on the page; dredge-master's wife and crew are outsiders and unharmed. Consistent.
+- [CLEAN] PHOENIX RULE respected: no "Phoenix"/"Abysscin" in prose, no wings, no named fire — only temperature-change menace and wordless pressure. Consistent with Zee's Phoenix Ruling.
+- [CLEAN] Tide-twin: phenomenon only; the carrier-name thread explicitly "rests" — this chapter closes the lien arc only. Consistent with current-direction.md fixed proposal and locked three-son canon (canon.md §3).
+- [CLEAN] No Aidan insertion (canon.md §16). Consistent.
+- [CLEAN] Shore-house letter = "Nhalaris's letter, the prior claim... older than the charter" — Nhalaris is Nymeris Thalryn's kingdom (characters.md); treating the letter as a prior claim predating the charter is proposal-level but conflicts with nothing locked.
+- [UNVERIFIED] Builds on Ch 211–213 proposal beats (auditor's *revenue, in tides* assessment; rope-locker storage of the letter) — thread-consistent, PROPOSAL ONLY status honored.
+## Pass 2 — Beta reader notes
+The coldest chapter of the run so far, and the most Zee. Two moments landed hard: the bailiffs' buckets coming up with "perfectly ordinary harbor water" (the file's failure rendered as physical comedy that isn't funny), and Zee executing the seizure on himself — signing the collection as owner, filing the receipt on the quay. "The water is mine the way the tide is. They have the paper. I have the sea." — that's the line of the chapter, maybe of the arc. The kill itself is handled exactly right for the R-rating: quick, unshowy, consequence-driven ("not fast. That was the worst of it"). One thing I'd want more of: the dredge-master's interior — he's our witness to both the comedy and the killing, and one line of what this costs him would ground the dread. Pacing is excellent; the closing arithmetic paragraph lands like a verdict.
+## Pass 3 — Proofread fixes
+None. Dialogue formatting, tense, and the repeated "the file" cadence are all consistent and deliberate.
+## Needs Zee's ruling
+- The filed precedent — the Crown seizing Crown property from its own king at his signature — is the structural climax of the lien arc; do you want the treasury to cite it in a later chapter (the file turning on the King), or should the precedent sit filed and unused?
+- Does the Order hire's death here count against the locked revenge target order, or is it Zee's-rule enforcement like Ch 212's?

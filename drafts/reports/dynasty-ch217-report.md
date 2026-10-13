@@ -1,0 +1,17 @@
+# Continuity Report — dynasty-ch217-draft.md — 2026-10-12
+## Pass 1 — Continuity
+- [UNVERIFIED] First-person "I" narrator — the King's advocate — is a new POV voice. It follows the proposal-level "Owner's Second Counsel" thread (ch200's footer: "Proposal — forward from the Owner's Second Counsel"), so it is thread-consistent, but it is not bible canon: no advocate/counsel character exists in dynasty/characters.md. As written, the narrator is unnamed and proposal-level — no contradiction, but a new recurring POV element with no canon footprint.
+- [CLEAN] "The Twelve Crowns" as old harbor money — bible-grounded: chapters.md Ch 7–13 reporting names "the Twelve Crowns" among associated names (canon.md §2 origins table context; chapters.md: "Names associated: Vale, Caldrin, Lucien, Rez, the Twelve Crowns, the dragon hatchling"). The chapter's specific Twelve Crowns house stays unnamed — the draft asks Zee whether it may be named later. Consistent.
+- [CLEAN] Zee's rule (canon.md §5): no threat materializes on the page, so no killing — the chapter is won by filing order and timing. Consistent.
+- [CLEAN] Power limits (canon.md §11–12) and PHOENIX RULE: no powers used on the page at all. Consistent.
+- [CLEAN] Inner circle (canon.md §15): no inner-circle characters appear. Consistent.
+- [CLEAN] Tide-twin phenomenon stays in background: the drowned record's blank carrier slot "remains the file's unresolved hole"; the Verdict Market arc builds on it without resolving it. Consistent with current-direction.md fixed proposal.
+- [CLEAN] Ch 104 lock / no Aidan (canon.md §16); no Legacy bleed. Consistent.
+- [QUESTION] The King's weekly warrants signature as "the only paper in the file that still priced him" — the draft asks whether this conflicts with any existing canon about Crown finance or may stand as the mechanism going forward. No bible canon about Crown finance exists to conflict with (finance is not covered in canon.md), but the mechanism would become standing canon if kept — Zee's call.
+## Pass 2 — Beta reader notes
+A deliciously clever chapter — the rare paper-war installment where the King wins by filing a loss. The first-person advocate voice is a gear-shift from the last four chapters and it works: "a man who had learned, over the last six chapters of his life, that stamps are cheaper than funerals" is both funny and terrifying. The central gambit (filing the losing leg FIRST, in the King's own hand, before the winner is even opened) is the kind of legal chess that's easy to follow and fun to watch unfold — the advocate on the chamber steps doing the arithmetic too late is the payoff. "He had bought the win. The King had bought the market the win paid out of." One thing I'd want more of: the advocate-narrator's stake — he files brilliantly, but I don't yet know what filing costs him personally. One line of that and the voice becomes a character, not just a camera. Pacing is tight; Thursday looms exactly right.
+## Pass 3 — Proofread fixes
+None. First-person voice is consistent; dialogue punctuation and the repeated "on the steps, in the rain that wasn't rain yet" refrain are deliberate.
+## Needs Zee's ruling
+- The Twelve Crowns house that bought the winning leg — may it be given a house name in a future draft, or should it stay unnamed as "the house"?
+- The King's weekly warrants signature is now the file's pricing instrument — does this conflict with any existing canon about Crown finance, or may it stand as the mechanism going forward?

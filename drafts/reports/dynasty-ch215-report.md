@@ -1,0 +1,19 @@
+# Continuity Report — dynasty-ch215-draft.md — 2026-10-12
+## Pass 1 — Continuity
+- [UNVERIFIED] "The pairing" / pairing ledger / pairing marks / pairing-born boy — the entire mechanism underpinning this chapter is new and appears in no bible. It's consistent with the proposal-level godchild banked beats (The Godfather's Arithmetic, The Godchild's Marks, The Naming Spoken, The Ledger's First Word, The Godchild's Hurt, The Protector's Page) and the chapter marks itself PROPOSAL ONLY throughout, so: no contradiction, but the pairing system is fully UNVERIFIED proposal material with no canon footprint yet.
+- [UNVERIFIED] "Nine" — new child character ("I don't know my name") with no bible entry; proposal-level only. Not a contradiction, but a new name entering the cast.
+- [CLEAN] Godchild is explicitly NOT Zee's son and NOT the tide-twin: the footer states "NO tide-twin-as-boy content" and the phenomenon/carrier-name lane is untouched; the boy is a pairing-born child Zee stood godfather for. Consistent with the locked three-son canon (canon.md §3) and current-direction.md (phenomenon, not a child). The phrasing "the cradle-child with the watermark-marks" cannot be read as a fourth son as written.
+- [CLEAN] Tessa is inner circle (canon.md §15) — present, unharmed, unthreatened; her book-closing is mercy, never harm. Consistent with absolute no-target boundaries.
+- [CLEAN] Rhyven: "Specimen Seven" / stillness at the gate — consistent with canon.md §17 and characters.md ("Rhyven — a Wolf prisoner designated Specimen Seven — becomes the first new Phoenix–Wolf race"). No powers shown, name untouched. No "Phoenix" in prose.
+- [CLEAN] PHOENIX RULE respected: no naming, no true form, no fire on the page. Consistent.
+- [CLEAN] No Aidan insertion (canon.md §16). Consistent.
+- [QUESTION] The "gold swears like an oath-stone" mechanism (gold testimony carrying oath-weight without an administered oath) is the chapter's load-bearing legal device and is proposal-level only — the draft itself asks Zee whether gold testimony should carry oath-weight or be downgraded to witnessed-only. Mechanism unverified.
+## Pass 2 — Beta reader notes
+This is the tenderest chapter of the six, and it earns it. Tessa closing the book — twice, once under candlelight, once in the dust — is the kind of character beat that makes the whole paper-war arc mean something: "The archive's armor was built for pages. Not for mouths." The children's "one true thing" custom is a lovely invention, and Nine's unchanging "I don't know my name" against the godchild's gold "I was the offering" is devastating — a boy with no name hearing a boy who knows exactly what he is. The clerk's final paragraph ("His book had not closed") is a perfect chill. One thing I'd want more of: one line more of the eight-year-old's interior — her wrists hurt when it rains, and she goes very still; I want to know what stillness costs her. Pacing: the middle section (Tessa's understanding) breathes well; the ending lands hard.
+## Pass 3 — Proofread fixes
+None material. Stylistic notes only, no changes required:
+- "steady as handwriting, steady as something being written in real time" followed by "Steady as handwriting" two sentences later — deliberate refrain, reads intentional.
+- The fragment "And the worst thing." ("Nine, who didn't know his name, hearing a boy who knew exactly what he was, and it was the worst thing.") — reads as intentional voice; left as-is.
+## Needs Zee's ruling
+- The godchild's gold testimony ("I was the offering") is written as gold-sworn — if gold testimony should NOT carry oath-weight in the file's law, downgrade to witnessed-only?
+- May the magistrate's clerk's attendance at the eighth bell stand as the filing mechanism for ch 216, or should the clerk's copy come from a different observer?

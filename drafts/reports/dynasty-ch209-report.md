@@ -1,0 +1,13 @@
+# Continuity Report — dynasty-ch209-draft.md — 2026-10-12
+## Pass 1 — Continuity
+- [UNVERIFIED] Prose and footer lean on prior beats not present in the bibles: "the honey fight," "the Order bid on his son's refusal like it was a commodity," "priced Zayrlen as a refund and been emancipated on paper," Ch 204 "The Unfileable Hour," "The Inch That Follows thread," the nursery governess, the "unfileable hour" itself. dynasty/chapters.md records "Chapter 147+: unwritten / not reported." Vigil cannot verify any of this; it arrives as the draft's own claims. Per dynasty/canon.md §18: "Missing material must NEVER be invented to fill gaps."
+- [WARNING] Upcoming beat 2 says "The mother defends the son by writing the list herself, in her own hand" — labeling Ner "the mother." Locked canon: "Ner Azrion: male… remains male; no surrogate or outside parent" (dynasty/canon.md §3); Ner is Zee's lover, "no love triangle with Nymeris" (dynasty/canon.md §15; dynasty/characters.md Ner Azrion). The draft's own footer asserts Ner is male, then its beat calls him "the mother." Recommend "Ner"/"birth-parent" phrasing to protect the locked male lock.
+- [CLEAN] Brothers-not-twins lock honored: distinguishing tags used consistently — Zayrlen's crimson-gold eyes vs Azren's gold shimmer (dynasty/canon.md §3). Nature lines right: Zayrlen = Dragon–Witch–Wolf, Azren = Dragon–Witch–Vampire inheriting Ner's Pure Gold Witch Mana (dynasty/canon.md §3).
+- [CLEAN] Phoenix ruling honored: no "Phoenix"/"Abysscin" naming in the prose. Tide-twin NOT read as a child anywhere — no fourth-son implication (locked three sons, dynasty/canon.md §3).
+- [CLEAN] No Aidan insertion (dynasty/canon.md §16). No Legacy content. Inner circle intact: Zee stops at "Don't" — the house is the exception to kill-first (dynasty/canon.md §15).
+## Pass 2 — Beta reader notes
+The wolf cracking is the most quietly devastating moment in this batch — "A small, clean, terrible sound. Like a rib." Azren's walk away ("He did not run. He did not look back") and Zayrlen standing with the broken wolf are perfectly staged. Ner's stillness on the stairwell — watching the whole of it and not moving, because "there was nowhere to go" — is restraint that hurts in the right way. "You can keep a childhood unpriced. But you can't keep it small" is the line of the chapter. Pacing: a quiet chapter after the paper war, and the quiet is earned. One thing I'd want more of: one line from Zayrlen's interior when the tail cracks — we get the arithmetic, but not yet the grief underneath it.
+## Pass 3 — Proofread fixes
+None.
+## Needs Zee's ruling
+- The carved wolf was invented for this fight — if it conflicts with anything already written about the boys' keepsakes, flag it and the draft will re-prop the fight.
