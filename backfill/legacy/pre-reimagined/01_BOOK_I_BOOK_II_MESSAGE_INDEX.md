@@ -108,6 +108,7 @@ These are not mere duplicate filenames. The source has actual competing chapter 
 ### Book II — `The Forgotten Blood`
 - [Initial Book II opening: Ch 1–2](book-ii-forgotten-blood/response-001-ch001-ch002.md)
 - [Ch 3–6, House Drakhar naming version](book-ii-forgotten-blood/response-002-ch003-ch006.md)
+- [Ch 8–12, Hollow Throne / Seraphina Drakhar version](book-ii-forgotten-blood/response-003-ch008-ch012.md)
 
 These are source-preserving extracts of the assistant replies, not a smoothed or merged manuscript. Gaps in this list remain to be extracted; a missing link does not mean the source chapter was absent.
 
