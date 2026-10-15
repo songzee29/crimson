@@ -102,6 +102,18 @@ The latest locked Zee directive controls the present story where it clearly appl
 
 For example, the archive includes Book Three Soul Link scenes in which Rez is already speaking to Aidan. Those scenes must remain in their own historical track; the current timing rule that Rez remains asleep until Vampire Arc Chapter 7 must not be overwritten by an older draft.
 
+
+
+## Newly recovered material before June 11, 2026
+
+**New source:** [EARLIEST_PRE_REIMAGINED_HISTORY_MAY_28.md](EARLIEST_PRE_REIMAGINED_HISTORY_MAY_28.md)
+
+The uploaded export contains an earlier source conversation, **`Zee Aesthetic Vibes`**, beginning May 28, 2026. It includes a Zee-centered origin story beginning with **“The Boy Nobody Wanted,”** followed by multiple separate Chapter 1 restarts including **“NO MORE STARS”** and **“THE SILENT KING.”** By June 1, the same conversation also contains a separately labeled **“THE CRIMSON LEGACY — BOOK II: THE FORGOTTEN BLOOD”** run with Aidan/Aiden and House Drakhar material.
+
+This changes the chronology: **June 11 is the beginning of the Reimagined conversation's restart, not the earliest recovered Legacy material overall.** The May 28 story, the June 1 “Forgotten Blood” Book II, and the June 11 crimson-book/System premise must be indexed as distinct historical tracks until full-text comparison establishes their exact relationship. The earlier `EXPORT_RECOVERY_EARLIEST_DEVELOPMENT.md` should be read as scoped to the June 11 Reimagined thread, not the whole franchise history.
+
+The May 28 source yielded 582 chapter/book-heading occurrences in the initial scan. That is not a unique chapter count; it includes restarts, duplicate headings, and multi-chapter responses. The existing backfill report's eight-conversation scope did not include this source, so the 2,667-item total describes the previous backfill scope only and is not a complete total for the newly expanded historical archive.
+
 ## Work order
 
 1. Inventory all original recovered chapter/scene files by source conversation, not by raw chapter number.
