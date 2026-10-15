@@ -7,6 +7,16 @@
 **Status:** ARCHIVAL ONLY. Legacy writing stays paused per Zee's Oct 8, 2026 decision. **Nothing herein is canon until Zee rules.** Contradictions are flagged, never resolved.
 **File layout:** chapter drafts as `<prefix>-ch<NNN>-<slug>.md` (prefix: `wr-` = Legacy writers room, `br-` = Reimagined branch, `re-` = Reimagined main, `sm-` = 5 small convos); canon artifacts as `_canon_<prefix>_<slug>.md`. Per-miner detail: `working/miner{1-4}/findings.md`.
 
+
+
+## 0. Scope correction from full-export review (2026-10-14)
+
+The 2,667-item total below describes the original **eight-conversation mining scope only**; it is not a complete count of all Legacy history in the uploaded export. A broader export scan found an earlier conversation, `Zee Aesthetic Vibes` (May 28–June 3), containing a Zee-centered origin story, multiple Chapter 1 restarts, and a separately labeled June 1 **Book II: The Forgotten Blood** run with Aidan/Aiden and House Drakhar material. That conversation was not included in the eight-source count below.
+
+See [EARLIEST_PRE_REIMAGINED_HISTORY_MAY_28.md](EARLIEST_PRE_REIMAGINED_HISTORY_MAY_28.md). The archive must now expand to include that source as a separate historical track. Do not simply add its 582 heading occurrences to the chapter count: headings repeat across restarts and multi-chapter replies, and need chapter-level deduplication/versioning first.
+
+This scope correction does not invalidate the extracted 2,667 items; it prevents the old total from being mistaken for the total history of Crimson Legacy.
+
 ---
 
 ## 1. CHAPTER INVENTORY — 2,667 files recovered
