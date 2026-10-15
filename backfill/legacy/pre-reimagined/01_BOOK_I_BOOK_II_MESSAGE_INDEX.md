@@ -124,6 +124,14 @@ These are not mere duplicate filenames. The source has actual competing chapter 
 - [Chapters 17–23, Observer conversation and Lucien awakening](book-ii-forgotten-blood/response-005-ch017-ch023.md)
 - [Chapters 23–28, Lucien returns](book-ii-forgotten-blood/response-006-ch023-ch028.md)
 - [Chapters 28–33, Memory Walker / hidden presence](book-ii-forgotten-blood/response-007-ch028-ch033.md)
+- [Chapters 33–38, Kael's sealed history](book-ii-forgotten-blood/response-008-ch033-ch038.md)
+- [Chapters 38–43, Aiden rejects the forced choice](book-ii-forgotten-blood/response-009-ch038-ch043.md)
+- [Chapters 43–48, Lucien returns and Aiden evolves](book-ii-forgotten-blood/response-010-ch043-ch048.md)
+- [Chapters 48–54, the Inheritance and Last War setup](book-ii-forgotten-blood/response-011-ch048-ch054.md)
+- [Chapters 54–59, Kael's hidden history](book-ii-forgotten-blood/response-012-ch054-ch059.md)
+- [Chapters 59–68, Kael revealed and the First Door](book-ii-forgotten-blood/response-013-ch059-ch068-teasers.md)
+- [Chapters 64–73, First Door / family reunion run](book-ii-forgotten-blood/response-014-ch064-ch073-teasers.md)
+- [Chapters 69–78, family reunion and new path](book-ii-forgotten-blood/response-015-ch069-ch078-teasers.md)
 
 These are source-preserving extracts of the assistant replies, not a smoothed or merged manuscript. Gaps in this list remain to be extracted; a missing link does not mean the source chapter was absent.
 
