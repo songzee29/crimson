@@ -59,6 +59,24 @@ The source messages after the opening repeatedly restart or correct chapter sequ
 - Complete text comparison between this early Book I and the June 11 Reimagined track.
 - Whether still earlier Legacy conception exists outside the uploaded export.
 
+
+
+## Extraction status — 2026-10-14
+
+The initial preservation pass has now created source-linked files under `pre-reimagined/`:
+- the original May 30 *Shadow of the First King* conception;
+- the May 31 Book I opening response (Chapters 1–3), plus responses covering Chapters 4–29;
+- the Chapter 30 fragment and the expanded Chapter 30–34 version;
+- the alternate Witch-path rewrite of Chapters 31–35;
+- Chapter 36–41, the Chapter 42 fragment and continuation/Chapter 43, and Chapters 44–48;
+- both Chapter 49 versions, Chapters 50–51, two conflicting Chapter 52–56 versions, and competing Chapter 57–61 sequences;
+- the alternate Ashborn King sequence covering Chapters 60–66;
+- Book II opening responses covering Chapters 1–2, 3–6, and 8–12.
+
+Detailed links and source message IDs are in [01_BOOK_I_BOOK_II_MESSAGE_INDEX.md](01_BOOK_I_BOOK_II_MESSAGE_INDEX.md).
+
+**Not complete yet:** Book I still has many later responses and chapter gaps to extract; Book II's later chapters (13–98) remain to be source-preserved; the June 11 Reimagined restart and later branch/Book Three tracks still need the same chapter-by-chapter archival treatment. The existing 2,667-item backfill remains a separate later-source extraction and is not being counted as if it filled these early-source gaps.
+
 ## Next extraction order
 
 1. Preserve the initial full Book I response exactly.
