@@ -26,7 +26,8 @@ Primary report: [LEGACY_BACKFILL_REPORT.md](LEGACY_BACKFILL_REPORT.md)
 
 | Source conversation / archive prefix | Recovered material | Initial classification |
 |---|---|---|
-| **Crimson Legacy Reimagined** (`re-`) | Earliest recovered Legacy conversation, beginning June 11, 2026; multiple numbered runs, restarts, Book II and Book III material | Main source archive; must be divided by the book labels and restart boundaries inside each file |
+| **Zee Aesthetic Vibes** (newly identified; May 28–June 3) | Zee-centered origin story; several Book I restarts; Book I *The Shadow of the First King* and *The System of the First King*; Book II *The Truth Behind the Black Gate* and *The Forgotten Blood* | Earliest recovered Legacy source in the uploaded export so far; separate historical tracks, not automatically current canon |
+| **Crimson Legacy Reimagined** (`re-`) | Reimagined restart beginning June 11, 2026; multiple numbered runs, restarts, Book II and Book III material | Main source archive; must be divided by the book labels and restart boundaries inside each file |
 | **Branch · Crimson Legacy Reimagined** (`br-`) | Alternate continuity; multiple story passes/restarts, prologue, scenes, and Zee-pasted chapters | Branch material; never silently merge into main track |
 | **Branch · Crimson Legacy Book Start** (`sm-…-bs-`) | Full Book One rewrite, chapters 1–209 in its own numbering | Separate Book One rewrite track |
 | **Crimson Legacy Book Two** (`sm-…-b2-`) | Book Two material, recovered chapters 1–98, including alternate versions and untitled continuations | Separate Book Two track |
