@@ -91,6 +91,7 @@ These are not mere duplicate filenames. The source has actual competing chapter 
 
 ### Book I — `The System of the First King`
 - [Initial multi-chapter response: Ch 1–3](book-i-system-of-first-king/ch001-initial-multichapter-response.md)
+- [Original May 30 conception prologue: The Shadow of the First King](book-i-shadow-of-first-king/initial-prologue-concept-may-30.md)
 - [Response 2: Ch 4–7](book-i-system-of-first-king/response-002-ch004-ch007.md)
 - [Response 3: Ch 8–14](book-i-system-of-first-king/response-003-ch008-ch014.md)
 - [Response 4: Ch 15–21](book-i-system-of-first-king/response-004-ch015-ch021.md)
@@ -100,6 +101,8 @@ These are not mere duplicate filenames. The source has actual competing chapter 
 - [Alternate Chapter 31–35 rewrite (Witch path)](book-i-system-of-first-king/response-008-witch-path-rewrite-ch031-ch035.md)
 - [Response 9: Ch 36–41](book-i-system-of-first-king/response-009-ch036-ch041.md)
 - [Response 10: Ch 44–48](book-i-system-of-first-king/response-010-ch044-ch048.md)
+- [Chapter 42 partial fragment](book-i-system-of-first-king/response-011-ch042-fragment.md)
+- [Chapter 42 continuation and Chapter 43](book-i-system-of-first-king/response-012-ch042-continuation-ch043.md)
 - [Two Chapter 49 versions, including explicit restart](book-i-system-of-first-king/alternates-ch049-ashborn-king-restart.md)
 - [Alternate A: Ch 52–56, Forgotten City (source truncates in Ch 56)](book-i-system-of-first-king/alternate-A-ch052-ch056-forgotten-city-truncated.md)
 - [Alternate B: Ch 52–56, Silver Key/Ashfire](book-i-system-of-first-king/alternate-B-ch052-ch056-silver-key-ashfire.md)
