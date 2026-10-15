@@ -39,6 +39,16 @@ A closer scan of the actual heading sequence reveals additional named runs that 
 
 This means the recovered history now reaches beyond “Zee-origin story, then Aidan/System story”: the older thread contains multiple titled Book I structures and at least two separately labeled Book II openings. These need their own stable track IDs in the eventual per-book catalog.
 
+
+
+## Correction: predecessor story vs. first named Crimson Legacy conception
+
+The May 28 material in this conversation is the earlier **Crimson Dynasty / Zee-origin predecessor context**, not yet the named Crimson Legacy series. The earliest explicit named Legacy conception recovered so far is **May 30, 2026 at 15:34 UTC**, when the assistant proposed ending *The Crimson Dynasty* and beginning *The Crimson Legacy*, Book I: *The Shadow of the First King*. Zee approved that direction at 15:36 UTC.
+
+On May 31 at 02:40 UTC, Zee established the more specific powerless-orphan / old-book / System / Rez concept. The first recovered full system-book manuscript begins at **03:03 UTC** on May 31, labeled Book I: *The System of the First King*, Chapter 1: “The Boy With Nothing.”
+
+See [00A_FIRST_NAMED_LEGACY_CONCEPTION_SHADOW_OF_FIRST_KING.md](00A_FIRST_NAMED_LEGACY_CONCEPTION_SHADOW_OF_FIRST_KING.md) for the preserved original planning proposal, and [00_EARLY_SOURCE_TRACK_REGISTER.md](00_EARLY_SOURCE_TRACK_REGISTER.md) for the track separation. The May 28 precursor remains important context, but should not be mislabeled as an already-existing Legacy manuscript.
+
 ## What the export scan confirms
 
 - The conversation `Zee Aesthetic Vibes` contains **582 extracted chapter/book-heading occurrences** in assistant messages during the scan. This is a count of headings, **not** a count of unique chapters: restarts, repeated text, multi-chapter replies, and duplicated headings are included.
