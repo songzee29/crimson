@@ -106,6 +106,7 @@ These are not mere duplicate filenames. The source has actual competing chapter 
 - [Two Chapter 49 versions, including explicit restart](book-i-system-of-first-king/alternates-ch049-ashborn-king-restart.md)
 - [Chapters 50–51 before the alternate Chapter 52 runs](book-i-system-of-first-king/response-013-ch050-ch051.md)
 - [Chapters 67–74 source responses with overlapping Chapter 68](book-i-system-of-first-king/response-015-ch067-ch074-overlap.md)
+- [Chapters 74–80 overlapping responses, fragments, and expanded version](book-i-system-of-first-king/response-016-ch074-ch080-overlap-fragments.md)
 - [Alternate A: Ch 52–56, Forgotten City (source truncates in Ch 56)](book-i-system-of-first-king/alternate-A-ch052-ch056-forgotten-city-truncated.md)
 - [Alternate B: Ch 52–56, Silver Key/Ashfire](book-i-system-of-first-king/alternate-B-ch052-ch056-silver-key-ashfire.md)
 - [Competing Ch 57–61 sequences](book-i-system-of-first-king/alternates-ch057-ch061-hidden-level-vs-watchers-warning.md)
