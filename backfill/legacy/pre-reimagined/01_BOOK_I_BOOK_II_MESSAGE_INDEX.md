@@ -132,6 +132,11 @@ These are not mere duplicate filenames. The source has actual competing chapter 
 - [Chapters 59–68, Kael revealed and the First Door](book-ii-forgotten-blood/response-013-ch059-ch068-teasers.md)
 - [Chapters 64–73, First Door / family reunion run](book-ii-forgotten-blood/response-014-ch064-ch073-teasers.md)
 - [Chapters 69–78, family reunion and new path](book-ii-forgotten-blood/response-015-ch069-ch078-teasers.md)
+- [Chapters 74–83, Realm Beyond Creation and Rez's hidden lineage](book-ii-forgotten-blood/response-016-ch074-ch083-teasers.md)
+- [Chapters 79–88, Golden City and the Ancient Ones](book-ii-forgotten-blood/response-017-ch079-ch088-teasers.md)
+- [Chapters 84–93, First Ancient and Cosmic Age](book-ii-forgotten-blood/response-018-ch084-ch093-teasers.md)
+- [Chapters 89–98, Seven Thrones and Celestial Dragon](book-ii-forgotten-blood/response-019-ch089-ch098-teasers.md)
+- [Chapters 94–103, Seventh Throne and Nihryx teasers](book-ii-forgotten-blood/response-020-ch094-ch103-teasers.md)
 
 These are source-preserving extracts of the assistant replies, not a smoothed or merged manuscript. Gaps in this list remain to be extracted; a missing link does not mean the source chapter was absent.
 
