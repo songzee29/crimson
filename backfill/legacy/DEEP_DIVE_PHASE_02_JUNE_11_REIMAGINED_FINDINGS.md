@@ -26,7 +26,7 @@ All timestamps below are UTC on June 11, 2026. Message IDs are the original expo
    Assistant message `f92351cd-f423-42d8-94bb-140ca302a8cf` (5,824 characters). The author catches a cause-and-effect error: the book cannot identify Aidan before contact. The proposed correction is physical contact plus blood as the activation trigger; identification follows activation. This draft also tries to stage Rez's awakening, but later user clarification narrows the timing further.
 
 5. **17:25 — Crimson book correction**  
-   User message `a137aa69-ef9e-4469-9c8a-7f4c1f8d2a45`? The export should be consulted for the exact ID before using this as a formal citation. The user explicitly corrects the book's color: **it is crimson, not black**. The assistant's immediate rewrite is message `f90c065c-38fe-4ba6-a2b9-4cda4d4a? ` in the export; the complete source ID is recorded in the June 11 opening version register. Do not use the malformed illustrative ID here as a canonical source identifier.
+   User message `a137aa69-ef9e-4469-9bc6-c1695382ab6f` explicitly corrects the book's color: **it is crimson, not black**. The immediate assistant rewrite is `f90c065c-38fe-4ba6-a584-38e3cb92112f`; the later Chapter 1 restart is `80869621-93a9-4bf4-8221-a9d8d510196b`.
 
 6. **17:27–17:31 — Chapter 2 / Rez timing correction**  
    User messages state that Rez is not supposed to be awake or speaking yet: he remains locked in the book until the Vampire Curse is triggered. Two Chapter 2 versions exist in the source. The version in which Rez speaks is a historical alternative and is source-truncated; it must not be silently completed using prose from another version.
