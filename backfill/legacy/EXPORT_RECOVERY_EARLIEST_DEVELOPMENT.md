@@ -2,12 +2,12 @@
 
 **Source:** ChatGPT export uploaded by Zee on 2026-10-14  
 **Primary conversation:** `Crimson Legacy Reimagined`  
-**Conversation's earliest timestamp in this export:** 2026-06-11 11:56 UTC  
+**Conversation's earliest timestamp in this export:** 2026-06-11 11:56 UTC (scoped to this conversation; an earlier Legacy precursor was subsequently found in `Zee Aesthetic Vibes`, beginning May 28, 2026)  
 **Status:** Historical evidence / research notes. This is not a canon amendment.
 
 ## Important limitation
 
-The earliest message present in this export begins with Zee saying, “Let’s start all the way over with the crimson legacy…” This proves that an earlier iteration already existed before the recovered starting point. Therefore, **June 11 is the earliest recovered starting point in this export, not proof that it was the first time Crimson Legacy was ever conceived.** Earlier drafts or conversations may survive elsewhere in GitHub files, attachments, or other exports.
+The earliest message in this particular conversation begins with Zee saying, “Let’s start all the way over with the crimson legacy…” This proves that an earlier iteration already existed before the Reimagined starting point. A subsequent scan of the full uploaded export found the earlier conversation `Zee Aesthetic Vibes` (May 28, 2026), which contains a Zee-centered Crimson Legacy origin story and a June 1 Book II run titled `The Forgotten Blood`. Therefore **June 11 is the beginning of the Reimagined restart, not the earliest recovered Legacy material overall**. See [EARLIEST_PRE_REIMAGINED_HISTORY_MAY_28.md](EARLIEST_PRE_REIMAGINED_HISTORY_MAY_28.md).
 
 ## What the earliest recovered conversation establishes
 
@@ -85,4 +85,4 @@ A conversation that begins later may contain chapters copied from an earlier run
 - Identify whether the truly first-ever Legacy conception is present in earlier files or conversations outside this export.
 - Keep the current Vampire Arc Chapter 7 Rez-awakening rule separate from historical variants where Rez speaks earlier.
 
-**No existing manuscript or canon file was modified by this research note.**
+**No existing manuscript or canon file was modified by this research note.** This note is scoped to the June 11 Reimagined conversation; the newly discovered May 28–June 3 source is documented separately in `EARLIEST_PRE_REIMAGINED_HISTORY_MAY_28.md`.
