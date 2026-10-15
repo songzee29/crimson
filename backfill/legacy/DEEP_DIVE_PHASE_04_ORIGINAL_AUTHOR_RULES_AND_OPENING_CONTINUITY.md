@@ -8,7 +8,7 @@
 ## A. The original restart instructions, in order
 
 ### June 11, 11:56 UTC — restart the premise, not the whole idea
-User message: `a6a1f... [verify source ID if citing externally]`
+User message: `4c2029b2-3c80-4b09-8a32-5412b8bc2405`
 
 The author says to start all the way over with Crimson Legacy while keeping the core idea, making it funnier/darker, and leaning into dark fantasy. This establishes that the June 11 run is a **restart/reimagining**, not a continuation that should be silently merged into the earlier *System of the First King* or *The Forgotten Blood* tracks.
 
