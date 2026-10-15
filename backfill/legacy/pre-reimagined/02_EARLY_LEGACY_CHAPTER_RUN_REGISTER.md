@@ -43,9 +43,9 @@ Source conversation: `Zee Aesthetic Vibes`. Times are UTC. Each response is a se
 
 ### Book I source-preservation status
 
-Already source-preserved as individual prose files: initial response and chapters 4–66 (with explicit alternates and source fragments called out in `01_BOOK_I_BOOK_II_MESSAGE_INDEX.md`), plus source responses for Chapters 67–74 and the overlapping Chapter 74–80 sequence.
+Already source-preserved as individual prose files: initial response and chapters 4–66 (with explicit alternates and source fragments called out in `01_BOOK_I_BOOK_II_MESSAGE_INDEX.md`), plus source responses for Chapters 67–74, the overlapping Chapter 74–80 sequence, Chapters 80–91 and 91–101, the alternate Chapter 101 endings/continuation through Chapter 105, and the Chapters 106–115 Black Gate run.
 
-**Still not source-preserved in full prose:** later response runs covering Chapters 80–115. Their source metadata and titles are recorded here, but this register is not a substitute for the missing verbatim prose files.
+**Still not source-preserved in full prose:** no full source-response files yet for the short gaps between some batches (for example, a few standalone fragments), and the archive needs a final audit for every message boundary. Main multi-chapter prose through Chapter 115 is now preserved, with overlaps and the ending attempt separated. Their source metadata and titles are recorded here, but this register is not a substitute for the missing verbatim prose files.
 
 ### User interventions that changed the Book I draft
 
