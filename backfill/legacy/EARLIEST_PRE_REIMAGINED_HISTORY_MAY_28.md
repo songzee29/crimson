@@ -26,7 +26,20 @@ The same conversation then accumulates many sequential chapter batches and multi
 6. **Aidan / House Drakhar / “The Forgotten Blood” Book II material.** By June 1, the conversation contains a separately labeled **“THE CRIMSON LEGACY — BOOK II: THE FORGOTTEN BLOOD”** run, including “Chapter 69 — The Brothers of House Drakhar,” and later chapters about Aiden, Lucien, the Hall of Kings, the First Door, the Golden City, the Seventh Throne, and ancient beings. This is evidence that Aidan and a Legacy Book II story existed in the export before the June 11 “Reimagined” restart. Keep this material separate from the later Aidan/System/crimson-book opening until continuity links are proven from the text.
 7. **Naming and spelling variants.** The early conversation uses both “Aidan” and “Aiden” in different passages, and contains names/relationships that later changed. Preserve the literal source wording in archival files; record later corrections in comparison notes rather than silently renaming the historical text.
 
-### What the export scan confirms
+#
+### Source A — recovered Book I and Book II labels inside the same conversation
+
+A closer scan of the actual heading sequence reveals additional named runs that must be recorded separately:
+
+- **May 30, 15:34 UTC — Book I: “The Shadow of the First King.”** This is a separately titled Book I structure inside the older Zee-centered story.
+- **May 31, 03:03 UTC — Book I: “The System of the First King.”** A new Book I title and its own Chapter 1, **“The Boy With Nothing.”** Do not collapse this into the May 28 “The Boy Nobody Wanted” opening just because the titles resemble each other.
+- **June 1, 15:26 UTC — Book II, Chapter 1: “The Truth Behind the Black Gate.”** This appears before the later Book II title in the same source conversation and needs comparison as a separate Book II opening/run.
+- **June 1, 15:42 UTC onward — Book II: “The Forgotten Blood.”** This is the labeled Book II run whose later chapters include “The Brothers of House Drakhar” and the Hall of Kings/Golden City/Seventh Throne sequence.
+- The conversation contains **at least three distinct Chapter 1 starts before June 11**: “Chapter 1 — Zee” (May 28, 08:17), “CHAPTER 1 — NO MORE STARS” (May 28, 17:27), and “CHAPTER 1 — THE SILENT KING” (May 28, 17:45). The May 31 “The Boy With Nothing” and June 1 “The Truth Behind the Black Gate” are additional Book I/Book II openings, not duplicates by title alone.
+
+This means the recovered history now reaches beyond “Zee-origin story, then Aidan/System story”: the older thread contains multiple titled Book I structures and at least two separately labeled Book II openings. These need their own stable track IDs in the eventual per-book catalog.
+
+## What the export scan confirms
 
 - The conversation `Zee Aesthetic Vibes` contains **582 extracted chapter/book-heading occurrences** in assistant messages during the scan. This is a count of headings, **not** a count of unique chapters: restarts, repeated text, multi-chapter replies, and duplicated headings are included.
 - The export contains a separate conversation titled `French Quarter Location` from June 11; it did not produce a chapter-heading result in this scan.
