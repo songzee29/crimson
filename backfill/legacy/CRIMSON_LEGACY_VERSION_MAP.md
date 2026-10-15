@@ -16,6 +16,25 @@ Every recovered item must retain:
 - its relationship to later versions, without declaring older material canon;
 - continuity conflicts and unresolved gaps rather than silently repairing them.
 
+## Deep Dive Reading Order — October 14 Recovery
+
+Read these reports in order. They are archival research files, not new canon and not manuscript replacements.
+
+1. [Phase 02 — June 11 Reimagined findings](DEEP_DIVE_PHASE_02_JUNE_11_REIMAGINED_FINDINGS.md)
+2. [Phase 03 — June 11–July 7 chapter and continuity crosswalk](DEEP_DIVE_PHASE_03_JUNE_11_TO_JULY_07_CHAPTER_AND_CONTINUITY_CROSSWALK.md)
+3. [Phase 04 — Original author rules and opening continuity](DEEP_DIVE_PHASE_04_ORIGINAL_AUTHOR_RULES_AND_OPENING_CONTINUITY.md)
+4. [Phase 05 — Cross-thread manuscript reconciliation](DEEP_DIVE_PHASE_05_CROSS_THREAD_MANUSCRIPT_RECONCILIATION.md)
+5. [Phase 06 — Chapter source collisions](DEEP_DIVE_PHASE_06_CHAPTER_SOURCE_COLLISIONS.md)
+6. [Phase 07 — Full-export chronology and recovery order](DEEP_DIVE_PHASE_07_FULL_EXPORT_CHRONOLOGY_AND_RECOVERY_ORDER.md)
+7. [Phase 08 — Opening lineage and source comparison](DEEP_DIVE_PHASE_08_OPENING_LINEAGE_AND_SOURCE_COMPARISON.md)
+8. [Phase 09 — June 11–16 Chapters 7–44](DEEP_DIVE_PHASE_09_JUNE_11_TO_JUNE_16_CHAPTERS_7_TO_44.md)
+9. [Phase 10 — June 21–27 Chapters 45–180](DEEP_DIVE_PHASE_10_JUNE_21_TO_JUNE_27_CHAPTERS_45_TO_180.md)
+10. [Phase 11 — Chapters 94–101 and 177–178 collisions](DEEP_DIVE_PHASE_11_CHAPTERS_94_TO_101_AND_177_TO_178_COLLISIONS.md)
+11. [Phase 12 — Canon artifact chronology and rule reconciliation](DEEP_DIVE_PHASE_12_CANON_ARTIFACT_CHRONOLOGY_AND_RULE_RECONCILIATION.md)
+12. [Phase 13 — June 28–July 8 numbering resets](DEEP_DIVE_PHASE_13_JUNE_28_TO_JULY_08_NUMBERING_RESETS.md)
+
+**Reading rule:** the reports explain the evidence; original source files remain the primary record. Do not treat a report's summary as new canon. Current Story Bible and Master Chapter Map control present-tense Legacy continuity; historical tracks remain preserved.
+
 ## Archive scale and source inventory
 
 The 2026-10-13 backfill report records **2,667 recovered chapter/scene items** from eight Legacy conversations. The repository also contains working-directory copies of the mined files, canon artifacts, and reports; therefore the raw Markdown file count is larger than the count of distinct recovered items. A repeated file in `working/miner1` through `working/miner4` is not automatically a new story version.
