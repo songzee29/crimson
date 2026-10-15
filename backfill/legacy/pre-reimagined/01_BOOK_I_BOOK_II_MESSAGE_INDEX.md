@@ -142,6 +142,8 @@ These are source-preserving extracts of the assistant replies, not a smoothed or
 
 ### June 11 Reimagined restart (next continuity phase)
 - [Chapter 1–3 version register: all recovered opening rewrites and critical corrections](03_REIMAGINED_RESTART_CH001_CH003_VERSION_REGISTER.md)
+- [Chapter 1 and competing Chapter 2 source versions](reimagined-june-11/opening-ch001-ch002-source-versions.md)
+- [Two Chapter 3 versions: The First Unseen Shift](reimagined-june-11/ch003-first-unseen-shift-alternates.md)
 
 ## Provenance cautions
 
