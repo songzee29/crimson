@@ -105,6 +105,17 @@ For example, the archive includes Book Three Soul Link scenes in which Rez is al
 
 
 
+## Earliest Legacy conception vs. predecessor context
+
+The May 28 `Zee Aesthetic Vibes` thread begins with a Zee-centered **Crimson Dynasty/origin-story** run. That is predecessor context, not a Legacy manuscript by itself. The earliest explicit named Legacy proposal found so far is **May 30, 2026 at 15:34 UTC**: *The Crimson Legacy*, Book I: **The Shadow of the First King**. Zee approves the direction at 15:36 UTC.
+
+The more concrete powerless-orphan / old-crimson-book / System / Rez premise is proposed by Zee on **May 31 at 02:40 UTC**. The first full system-book manuscript begins at **03:03 UTC** as Book I: **The System of the First King**, Chapter 1: “The Boy With Nothing.”
+
+- [First named Legacy conception](pre-reimagined/00A_FIRST_NAMED_LEGACY_CONCEPTION_SHADOW_OF_FIRST_KING.md)
+- [Early source track register](pre-reimagined/00_EARLY_SOURCE_TRACK_REGISTER.md)
+- [Book I / Book II source-message index](pre-reimagined/01_BOOK_I_BOOK_II_MESSAGE_INDEX.md)
+- [Initial Book I source response](pre-reimagined/book-i-system-of-first-king/ch001-initial-multichapter-response.md)
+
 ## Newly recovered material before June 11, 2026
 
 **New source:** [EARLIEST_PRE_REIMAGINED_HISTORY_MAY_28.md](EARLIEST_PRE_REIMAGINED_HISTORY_MAY_28.md)
