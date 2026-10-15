@@ -140,6 +140,9 @@ These are not mere duplicate filenames. The source has actual competing chapter 
 
 These are source-preserving extracts of the assistant replies, not a smoothed or merged manuscript. Gaps in this list remain to be extracted; a missing link does not mean the source chapter was absent.
 
+### June 11 Reimagined restart (next continuity phase)
+- [Chapter 1–3 version register: all recovered opening rewrites and critical corrections](03_REIMAGINED_RESTART_CH001_CH003_VERSION_REGISTER.md)
+
 ## Provenance cautions
 
 - The `Zee Aesthetic Vibes` conversation begins with non-Legacy discussion and a Zee-centered Dynasty story. Do not label the May 28 story as Legacy simply because it later becomes the predecessor.
