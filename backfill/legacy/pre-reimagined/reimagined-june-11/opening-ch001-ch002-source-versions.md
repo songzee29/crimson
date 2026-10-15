@@ -101,7 +101,7 @@ Rez’s voice didn’t rush him. It hovered in his mind, steady like an old curr
 
 Aidan’s head spun. The words didn’t make sense, but his hand stung like a fresh reminder.
 
-[The original source message continues beyond the excerpt captured here.]
+[The source message itself ends mid-sentence here: “Zee’s power waits”. Preserve this as a truncated source response; do not complete it from another draft.]
 
 ---
 
