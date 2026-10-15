@@ -63,7 +63,7 @@ The June 1 source thread continues Book II through Chapter 103. Chapter ranges o
 |---|---|---|---|
 | June 1 15:26:52 | `2120703b-abb3-4838-947c-2cc53e8621b0` | Ch. 1–2 “The Truth Behind the Black Gate,” “The Last Name” | Initial Book II opening |
 | June 1 15:35:36 | `ee613143-b865-4cdc-9fb5-e8d08cb5a023` | Ch. 3–6 “The Hunter of Bloodlines,” “The Name History Buried,” “The Last Daughter,” “Her Name” | Drakhar naming continuity |
-| June 1 15:42:24 | `b36e...source reply` | Ch. 7–8, “The Prince Who Never Died,” “The Hollow Throne” | Source response is adjacent to the next full run; exact ID is recorded in the raw export |
+| June 1 15:42:24 | `a20aba87-d82d-40ee-8a15-75ca50ded438` | Ch. 7–8, “The Prince Who Never Died,” “The Hollow Throne” | Source response is adjacent to the next full run; exact ID is recorded in the raw export |
 | June 1 15:43:24 | `42557228-235d-4ff0-83e4-cf7ec69a0045` | Ch. 8–12 “The Hollow Throne,” “The Throne Room,” “The Crimson Seal,” “The Heir That History Erased,” “The Sound Behind the Door” | Separate expanded version |
 | June 1 15:50:04 | `321ac564-424a-41b6-adaf-4d67cecff6f9` | Ch. 13–17: “The First Daughter of House Drakhar,” “The Weight of Time,” “What Happened to Zee,” “The Enemy Before History,” “The Conversation No Drakhar Survived…” | Multi-chapter response |
 | June 1 16:02:23 | `1ce15c2b-4104-4751-8e4d-1eaa818f2b0b` | Ch. 17–23: “The Conversation No Drakhar Survived,” “Beyond the Stars,” “The First Truth,” “The Enemy Behind the Purifiers,” “The Name of the Devourer,” “The Prince Awakens,” “The Return of Lucien Drakhar…” | Overlapping continuation |
