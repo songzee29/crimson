@@ -33,6 +33,7 @@ Read these reports in order. They are archival research files, not new canon and
 11. [Phase 12 — Canon artifact chronology and rule reconciliation](DEEP_DIVE_PHASE_12_CANON_ARTIFACT_CHRONOLOGY_AND_RULE_RECONCILIATION.md)
 12. [Phase 13 — June 28–July 8 numbering resets](DEEP_DIVE_PHASE_13_JUNE_28_TO_JULY_08_NUMBERING_RESETS.md)
 13. [Phase 14 — Legacy references in Dynasty threads](DEEP_DIVE_PHASE_14_LEGACY_REFERENCES_IN_DYNASTY_THREADS.md)
+14. [Phase 15 — Book Three Soul Link manuscript audit](DEEP_DIVE_PHASE_15_BOOK_THREE_SOUL_LINK_MANUSCRIPT_AUDIT.md)
 
 **Reading rule:** the reports explain the evidence; original source files remain the primary record. Do not treat a report's summary as new canon. Current Story Bible and Master Chapter Map control present-tense Legacy continuity; historical tracks remain preserved.
 
