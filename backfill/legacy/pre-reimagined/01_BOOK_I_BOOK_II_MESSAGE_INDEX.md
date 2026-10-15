@@ -86,6 +86,31 @@ These are not mere duplicate filenames. The source has actual competing chapter 
 | June 3 05:31:42 | `9a775ead-8039-448d-b02d-9c7d5433ee2e` | Ch 89 “The Meeting of Enemies”; Ch 90 “Why Valthoros Came Willingly”; Ch 91 “The Seven Ancient Thrones”; Ch 92 “The Secret Hidden in Zee's Blood”; Ch 93 “The Return of an Impossible Dragon” | Continued run |
 | June 3 05:42:06 | `6065450d-13d9-49b9-9dfb-094eab03e8d1` | Ch 94 “The Heir of the Seventh Throne”; Ch 95 “Why the Dragon Knows Zee”; Ch 96 “The Ancient Enemy Behind All Things”; Ch 97 “Kael's Greatest Test”; Ch 98 “The Throne That Chose Aiden” | Last recovered response in this source conversation |
 
+
+## Archived prose files created from this index
+
+### Book I — `The System of the First King`
+- [Initial multi-chapter response: Ch 1–3](book-i-system-of-first-king/ch001-initial-multichapter-response.md)
+- [Response 2: Ch 4–7](book-i-system-of-first-king/response-002-ch004-ch007.md)
+- [Response 3: Ch 8–14](book-i-system-of-first-king/response-003-ch008-ch014.md)
+- [Response 4: Ch 15–21](book-i-system-of-first-king/response-004-ch015-ch021.md)
+- [Response 5: Ch 22–29](book-i-system-of-first-king/response-005-ch022-ch029.md)
+- [Chapter 30 partial fragment](book-i-system-of-first-king/response-006-ch030-fragment.md)
+- [Expanded Chapter 30–34 version (Wolf path)](book-i-system-of-first-king/response-007-restarted-ch030-ch034.md)
+- [Alternate Chapter 31–35 rewrite (Witch path)](book-i-system-of-first-king/response-008-witch-path-rewrite-ch031-ch035.md)
+- [Response 9: Ch 36–41](book-i-system-of-first-king/response-009-ch036-ch041.md)
+- [Response 10: Ch 44–48](book-i-system-of-first-king/response-010-ch044-ch048.md)
+- [Two Chapter 49 versions, including explicit restart](book-i-system-of-first-king/alternates-ch049-ashborn-king-restart.md)
+- [Alternate A: Ch 52–56, Forgotten City (source truncates in Ch 56)](book-i-system-of-first-king/alternate-A-ch052-ch056-forgotten-city-truncated.md)
+- [Alternate B: Ch 52–56, Silver Key/Ashfire](book-i-system-of-first-king/alternate-B-ch052-ch056-silver-key-ashfire.md)
+- [Competing Ch 57–61 sequences](book-i-system-of-first-king/alternates-ch057-ch061-hidden-level-vs-watchers-warning.md)
+
+### Book II — `The Forgotten Blood`
+- [Initial Book II opening: Ch 1–2](book-ii-forgotten-blood/response-001-ch001-ch002.md)
+- [Ch 3–6, House Drakhar naming version](book-ii-forgotten-blood/response-002-ch003-ch006.md)
+
+These are source-preserving extracts of the assistant replies, not a smoothed or merged manuscript. Gaps in this list remain to be extracted; a missing link does not mean the source chapter was absent.
+
 ## Provenance cautions
 
 - The `Zee Aesthetic Vibes` conversation begins with non-Legacy discussion and a Zee-centered Dynasty story. Do not label the May 28 story as Legacy simply because it later becomes the predecessor.
