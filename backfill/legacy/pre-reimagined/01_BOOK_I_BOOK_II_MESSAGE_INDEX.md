@@ -108,6 +108,7 @@ These are not mere duplicate filenames. The source has actual competing chapter 
 - [Alternate A: Ch 52–56, Forgotten City (source truncates in Ch 56)](book-i-system-of-first-king/alternate-A-ch052-ch056-forgotten-city-truncated.md)
 - [Alternate B: Ch 52–56, Silver Key/Ashfire](book-i-system-of-first-king/alternate-B-ch052-ch056-silver-key-ashfire.md)
 - [Competing Ch 57–61 sequences](book-i-system-of-first-king/alternates-ch057-ch061-hidden-level-vs-watchers-warning.md)
+- [Ch 60–66, Ashborn King sequence](book-i-system-of-first-king/response-014-ch060-ch066-ashborn-king.md)
 
 ### Book II — `The Forgotten Blood`
 - [Initial Book II opening: Ch 1–2](book-ii-forgotten-blood/response-001-ch001-ch002.md)
