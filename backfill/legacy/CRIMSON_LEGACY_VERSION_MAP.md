@@ -37,6 +37,17 @@ Read these reports in order. They are archival research files, not new canon and
 
 **Reading rule:** the reports explain the evidence; original source files remain the primary record. Do not treat a report's summary as new canon. Current Story Bible and Master Chapter Map control present-tense Legacy continuity; historical tracks remain preserved.
 
+## Raw Mining Ledgers — Read After the Chronology Reports
+
+These are the detailed extraction ledgers behind the archive. They preserve individual rulings, contradictions, unresolved questions, and chapter inventories. They are not current canon by themselves.
+
+- [Miner 1 — Writers' Room, July 8–September 8](working/miner1/findings.md): Vampire Arc, humanity-off, Lyra, Rez/Soul Link, ocean bloodline, Draco, Cassian, September six-Authority track, and chapter inventory.
+- [Miner 2 — Reimagined branch, June 11–July 9](working/miner2/findings.md): all branch story passes, author rulings, contradictions, unresolved questions, and 1,100+ chapter occurrences.
+- [Miner 3 — Reimagined main, June 11–July 8](working/miner3/findings.md): dated ruling ledger, in-chat supersessions, conflicts, unresolved threads, and main-run chapter inventory.
+- [Miner 4 — Five smaller Legacy conversations](working/miner4/findings.md): Workflow, Book Start, Book Two, Recap, and Master Decree source findings.
+
+**Reading order:** first use the Phase 02–15 reports to understand the timeline and track boundaries; then read the four raw ledgers for the individual ruling details; finally use the original source chapter files and canon artifacts to verify any disputed line. A miner's “CONFIRMS/CONTRADICTS/NEW” label is a comparison note, not a canon ruling.
+
 ## Archive scale and source inventory
 
 The 2026-10-13 backfill report records **2,667 recovered chapter/scene items** from eight Legacy conversations. The repository also contains working-directory copies of the mined files, canon artifacts, and reports; therefore the raw Markdown file count is larger than the count of distinct recovered items. A repeated file in `working/miner1` through `working/miner4` is not automatically a new story version.
