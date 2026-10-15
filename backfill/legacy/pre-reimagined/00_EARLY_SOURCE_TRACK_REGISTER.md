@@ -85,3 +85,7 @@ Detailed links and source message IDs are in [01_BOOK_I_BOOK_II_MESSAGE_INDEX.md
 4. Extract Book II: *The Truth Behind the Black Gate* and *The Forgotten Blood* as separate opening/track candidates.
 5. Continue into the June 11 Reimagined track, then later branch, Book Two, and Book Three sources.
 6. After the archival map is complete, compare current directives. Never promote old text to current canon merely because it feels familiar.
+
+
+### June 11 Reimagined restart: opening version chain
+The Chapter 1–3 register and initial source-preserved prose are now added. The register identifies each source response by timestamp/message ID, and the prose files preserve the crimson-book Chapter 1, corrected dormant-Rez Chapter 2, and two Chapter 3 alternatives. The full prose of the earlier Chapter 1 restarts and the remaining June 11 opening variants still needs to be extracted individually.
