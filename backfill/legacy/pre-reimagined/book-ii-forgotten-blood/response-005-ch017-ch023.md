@@ -312,7 +312,7 @@ The Observer's expression changed.
 
 Almost thoughtful.
 
-"Your bloodline disappointed me."
+"Your ancestor disappointed me."
 
 Aiden blinked.
 
