@@ -38,6 +38,27 @@ Primary report: [LEGACY_BACKFILL_REPORT.md](LEGACY_BACKFILL_REPORT.md)
 
 These are source-level groupings from the backfill report, not a claim that every item within a source belongs to one book. Source headers and conversation timestamps take precedence over filename guesses.
 
+## Full-export cross-check — October 14, 2026
+
+A broader programmatic pass over the uploaded export identified **16 Legacy-related conversations**, including the earliest `Zee Aesthetic Vibes` source, the main and branch Reimagined threads, Book Start, Book Two, Recap, Writers' Room, Workflow, decree, and writing-request threads.
+
+- **4,766 message records** across those conversations; **3,777 distinct message IDs**.
+- The original `Crimson Legacy Reimagined` and `Branch · Crimson Legacy Reimagined` share **983 message IDs**. The original has 26 IDs not present in the branch; the branch has 198 IDs not present in the original. These must not be treated as two fully independent manuscripts.
+- Exact-text comparison found **843 cross-conversation duplicate-text groups** (2,206 message records involved). Re-pastes and shared branch history inflate raw counts.
+- A heading scan found **1,882 chapter-heading occurrences** and 1,469 distinct heading strings. This is a locator count—not a count of complete, unique chapters—because one message may contain several chapters, chapter headings can occur in commentary, and separate tracks reuse numbers.
+
+### Collisions that must remain separate until formally reconciled
+
+1. **Chapter 101 is a collision, not a universal location.** Across the source threads it appears under several titles and purposes, including `Across the Sea`, `The Child Who Never Left`, `The Thorn`, `The First Lesson of Authority`, and `Two Years Later`. Their book/arc labels differ. The Oct 12 lock that the Witch Arc ends at Chapter 101 governs current structure, but the individual source versions must still be retained and compared rather than merged.
+2. **The September 8 Chapters 80–85 track is a separate post-Breaking rewrite.** It includes Lyra's death, the Sacred Seal breaking, and the Dragon/Siren/Crimson Phoenix instant evolution. The Oct 12 current canon says Lyra is alive at the Witch Arc ending and the Witch Arc ends at Chapter 101; therefore the September sequence cannot be silently spliced into that current arc. Preserve it as its own historical track.
+3. **Six Authorities vs. four Authorities is a dated conflict.** On September 8, the revised Chapter 83 and a correction directive explicitly classify Witch, Vampire, Wolf, Dragon, Siren, and Crimson Phoenix as six Authorities. The Oct 12 Story Bible instead records four Authorities, with Crimson Demon Eclipse as the fourth above the original three. Until Zee issues a new ruling, the Oct 12 canon reference controls current use; the six-Authority Chapter 83 remains preserved as historical source, not erased.
+4. **Chapter 177/178 remains a current stopping point but its book label is unresolved.** The source map records competing labels—Book II `The Blood They Never Knew` and Book III `The Fourth Judgment`. Do not choose a label from chapter number alone.
+5. **The Book Start rewrite (Chapters 1–209), the high-numbered Witch finale (Chapters 294–351), the September 80–85 sequence, the dedicated Book Two chapters 1–98, and the Recap chapters 1–83 are separate numbering tracks.** A matching chapter number is not proof of continuity or priority.
+
+### Current operating boundary
+
+The Oct 12 repository state and README take precedence for present work: **finish Crimson Dynasty first; keep Crimson Legacy paused**. This deep dive is archival reconciliation only. Do not write new Legacy chapters, promote an older draft to canon, or fill gaps with invented material while the pause is active.
+
 ## Book-by-book organization to build
 
 ### Book One — earliest conception through the current Witch Arc version
