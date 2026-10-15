@@ -85,7 +85,7 @@ The June 1 source thread continues Book II through Chapter 103. Chapter ranges o
 
 ### Book II source-preservation status
 
-Full prose is now source-preserved for Book II response batches covering Ch. 1–2, 3–6, 8–12, 13–17, 17–23, 23–28, and 28–33. The remaining June 1–3 Book II response batches listed above still need full prose extracted into individual source files. Do not present this register as if it were the full manuscript.
+Full prose is now source-preserved for Book II response batches covering Ch. 1–2, 3–6, 8–12, 13–17, 17–23, 23–28, 28–33, 33–38, 38–43, 43–48, 48–54, 54–59, 59–68, 64–73, and 69–78. The remaining June 1–3 Book II response batches listed above still need full prose extracted into individual source files. Do not present this register as if it were the full manuscript.
 
 ## Immediate next extraction order
 
