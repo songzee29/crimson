@@ -104,6 +104,7 @@ These are not mere duplicate filenames. The source has actual competing chapter 
 - [Chapter 42 partial fragment](book-i-system-of-first-king/response-011-ch042-fragment.md)
 - [Chapter 42 continuation and Chapter 43](book-i-system-of-first-king/response-012-ch042-continuation-ch043.md)
 - [Two Chapter 49 versions, including explicit restart](book-i-system-of-first-king/alternates-ch049-ashborn-king-restart.md)
+- [Chapters 50–51 before the alternate Chapter 52 runs](book-i-system-of-first-king/response-013-ch050-ch051.md)
 - [Alternate A: Ch 52–56, Forgotten City (source truncates in Ch 56)](book-i-system-of-first-king/alternate-A-ch052-ch056-forgotten-city-truncated.md)
 - [Alternate B: Ch 52–56, Silver Key/Ashfire](book-i-system-of-first-king/alternate-B-ch052-ch056-silver-key-ashfire.md)
 - [Competing Ch 57–61 sequences](book-i-system-of-first-king/alternates-ch057-ch061-hidden-level-vs-watchers-warning.md)
