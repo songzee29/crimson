@@ -17,6 +17,8 @@ See [EARLIEST_PRE_REIMAGINED_HISTORY_MAY_28.md](EARLIEST_PRE_REIMAGINED_HISTORY_
 
 This scope correction does not invalidate the extracted 2,667 items; it prevents the old total from being mistaken for the total history of Crimson Legacy.
 
+**Additional chronology precision:** `Zee Aesthetic Vibes` begins May 28 with the Zee-centered Crimson Dynasty/origin story. The earliest explicit named **Crimson Legacy** proposal recovered in that thread is May 30 at 15:34 UTC: Book I, `The Shadow of the First King`. The specific powerless-orphan / crimson-book / System / Rez concept is established May 31 at 02:40 UTC, and the first full system-book manuscript begins at 03:03 UTC as `The System of the First King`. These stages are separately documented under `pre-reimagined/`; do not call the May 28 predecessor story a Legacy manuscript.
+
 ---
 
 ## 1. CHAPTER INVENTORY — 2,667 files recovered
